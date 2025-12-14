@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "hospital_name": "EDFlow AI Emergency Department",
+    "last_updated": "2025-10-25T22:15:00Z",
+    "version": "1.0"
+  },
+  "beds": {
+    "icu": [
+      {
+        "id": "ICU-1",
+        "status": "available",
+        "type": "cardiac",
+        "location": "ICU Wing A",
+        "equipment": ["cardiac_monitor", "ventilator", "defibrillator"]
+      },
+      {
+        "id": "ICU-2",
+        "status": "occupied",
+        "type": "neuro",
+        "location": "ICU Wing A",
+        "patient_id": "PT-2024-001",
+        "equipment": ["neuro_monitor", "ventilator"]
+      },
+      {
+        "id": "ICU-3",
+        "status": "available",
+        "type": "cardiac",
+        "location": "ICU Wing B",
+        "equipment": ["cardiac_monitor", "defibrillator"]
+      },
+      {
+        "id": "ICU-4",
+        "status": "cleaning",
+        "type": "general",
+        "location": "ICU Wing B",
+        "equipment": ["basic_monitor"]
+      },
+      {
+        "id": "ICU-5",
+        "status": "available",
+        "type": "trauma",
+        "location": "Trauma Bay",
+        "equipment": ["trauma_cart", "ventilator", "rapid_infuser"]
+      }
+    ],
+    "regular": [
+      {
+        "id": "REG-1",
+        "status": "available",
+        "type": "observation",
+        "location": "ED Bay 1"
+      },
+      {
+        "id": "REG-2",
+        "status": "occupied",
+        "type": "observation",
+        "location": "ED Bay 2",
+        "patient_id": "PT-2024-002"
+      },
+      {
+        "id": "REG-3",
+        "status": "available",
+        "type": "observation",
+        "location": "ED Bay 3"
+      },
+      {
+        "id": "REG-4",
+        "status": "available",
+        "type": "fast_track",
+        "location": "Fast Track 1"
+      },
+      {
+        "id": "REG-5",
+        "status": "cleaning",
+        "type": "observation",
+        "location": "ED Bay 4"
+      }
+    ],
+    "trauma_bays": [
+      {
+        "id": "TRAUMA-1",
+        "status": "available",
+        "location": "Trauma Bay 1",
+        "equipment": ["trauma_cart", "xray", "ultrasound", "rapid_infuser"]
+      },
+      {
+        "id": "TRAUMA-2",
+        "status": "available",
+        "location": "Trauma Bay 2",
+        "equipment": ["trauma_cart", "xray", "ultrasound"]
+      }
+    ]
+  },
+  "medications": {
+    "emergency": {
+      "aspirin": {
+        "name": "Aspirin",
+        "dose": "325mg",
+        "available": 500,
+        "unit": "tablets",
+        "location": "Emergency Cart",
+        "expiry": "2026-12-31"
+      },
+      "heparin": {
+        "name": "Heparin",
+        "dose": "5000 units/mL",
+        "available": 50,
+        "unit": "vials",
+        "location": "Refrigerator A",
+        "expiry": "2026-06-30"
+      },
+      "nitroglycerin": {
+        "name": "Nitroglycerin",
+        "dose": "0.4mg",
+        "available": 100,
+        "unit": "sublingual tablets",
+        "location": "Emergency Cart",
+        "expiry": "2025-12-31"
+      },
+      "morphine": {
+        "name": "Morphine Sulfate",
+        "dose": "10mg/mL",
+        "available": 30,
+        "unit": "vials",
+        "location": "Controlled Substances",
+        "expiry": "2027-03-15"
+      },
+      "epinephrine": {
+        "name": "Epinephrine",
+        "dose": "1mg/mL",
+        "available": 75,
+        "unit": "ampules",
+        "location": "Emergency Cart",
+        "expiry": "2026-09-30"
+      },
+      "alteplase": {
+        "name": "Alteplase (tPA)",
+        "dose": "50mg",
+        "available": 10,
+        "unit": "vials",
+        "location": "Stroke Cart",
+        "expiry": "2026-08-15"
+      }
+    },
+    "antibiotics": {
+      "ceftriaxone": {
+        "name": "Ceftriaxone",
+        "dose": "1g",
+        "available": 200,
+        "unit": "vials",
+        "location": "Pharmacy Refrigerator"
+      },
+      "vancomycin": {
+        "name": "Vancomycin",
+        "dose": "500mg",
+        "available": 150,
+        "unit": "vials",
+        "location": "Pharmacy Refrigerator"
+      }
+    },
+    "fluids": {
+      "normal_saline": {
+        "name": "Normal Saline 0.9%",
+        "volume": "1000mL",
+        "available": 500,
+        "unit": "bags",
+        "location": "IV Room"
+      },
+      "lactated_ringers": {
+        "name": "Lactated Ringer's",
+        "volume": "1000mL",
+        "available": 300,
+        "unit": "bags",
+        "location": "IV Room"
+      }
+    }
+  },
+  "lab_equipment": {
+    "diagnostic": {
+      "ecg": {
+        "name": "ECG Machine",
+        "available": 3,
+        "total": 5,
+        "in_use": 2,
+        "locations": ["ED Bay 1", "ED Bay 3", "Trauma Bay 1"]
+      },
+      "xray_portable": {
+        "name": "Portable X-Ray",
+        "available": 2,
+        "total": 3,
+        "in_use": 1,
+        "locations": ["Equipment Room A", "Equipment Room B"]
+      },
+      "ultrasound": {
+        "name": "Ultrasound Machine",
+        "available": 2,
+        "total": 4,
+        "in_use": 2,
+        "locations": ["ED Bay 2", "Trauma Bay 2"]
+      },
+      "ct_scanner": {
+        "name": "CT Scanner",
+        "available": 1,
+        "total": 2,
+        "in_use": 1,
+        "location": "Radiology Suite"
+      }
+    },
+    "lab_tests": {
+      "troponin": {
+        "name": "Troponin Test",
+        "available": 50,
+        "turnaround_time_minutes": 15,
+        "priority": "STAT"
+      },
+      "cbc": {
+        "name": "Complete Blood Count",
+        "available": 100,
+        "turnaround_time_minutes": 20,
+        "priority": "routine"
+      },
+      "bmp": {
+        "name": "Basic Metabolic Panel",
+        "available": 100,
+        "turnaround_time_minutes": 25,
+        "priority": "routine"
+      },
+      "d_dimer": {
+        "name": "D-Dimer",
+        "available": 30,
+        "turnaround_time_minutes": 30,
+        "priority": "urgent"
+      },
+      "pt_inr": {
+        "name": "PT/INR",
+        "available": 50,
+        "turnaround_time_minutes": 20,
+        "priority": "STAT"
+      }
+    }
+  },
+  "specialists": {
+    "cardiology": [
+      {
+        "id": "CARD-001",
+        "name": "Dr. Sarah Smith",
+        "status": "available",
+        "specialty": "Interventional Cardiology",
+        "phone": "555-0101",
+        "response_time_minutes": 15
+      },
+      {
+        "id": "CARD-002",
+        "name": "Dr. Michael Chen",
+        "status": "on_call",
+        "specialty": "Cardiology",
+        "phone": "555-0102",
+        "response_time_minutes": 30
+      }
+    ],
+    "neurology": [
+      {
+        "id": "NEURO-001",
+        "name": "Dr. Emily Johnson",
+        "status": "available",
+        "specialty": "Stroke Neurology",
+        "phone": "555-0201",
+        "response_time_minutes": 10
+      },
+      {
+        "id": "NEURO-002",
+        "name": "Dr. David Lee",
+        "status": "busy",
+        "specialty": "Neurology",
+        "phone": "555-0202",
+        "response_time_minutes": 45
+      }
+    ],
+    "trauma_surgery": [
+      {
+        "id": "TRAUMA-001",
+        "name": "Dr. Robert Williams",
+        "status": "available",
+        "specialty": "Trauma Surgery",
+        "phone": "555-0301",
+        "response_time_minutes": 5
+      },
+      {
+        "id": "TRAUMA-002",
+        "name": "Dr. Lisa Martinez",
+        "status": "in_surgery",
+        "specialty": "Trauma Surgery",
+        "phone": "555-0302",
+        "response_time_minutes": 120
+      }
+    ],
+    "radiology": [
+      {
+        "id": "RAD-001",
+        "name": "Dr. James Anderson",
+        "status": "available",
+        "specialty": "Emergency Radiology",
+        "phone": "555-0401",
+        "response_time_minutes": 20
+      }
+    ]
+  },
+  "staff": {
+    "nurses": {
+      "on_duty": 15,
+      "total": 20,
+      "available": 8,
+      "in_break": 2,
+      "with_patients": 5
+    },
+    "physicians": {
+      "on_duty": 5,
+      "total": 8,
+      "available": 2,
+      "with_patients": 3
+    },
+    "technicians": {
+      "on_duty": 8,
+      "total": 12,
+      "available": 5,
+      "busy": 3
+    }
+  },
+  "protocols": {
+    "stemi": {
+      "name": "STEMI Protocol",
+      "active_cases": 0,
+      "total_today": 2,
+      "avg_door_to_balloon_minutes": 45,
+      "target_time_minutes": 90,
+      "success_rate": 0.95,
+      "last_activation": "2025-10-25T14:30:00Z"
+    },
+    "stroke": {
+      "name": "Stroke Protocol",
+      "active_cases": 0,
+      "total_today": 1,
+      "avg_door_to_needle_minutes": 38,
+      "target_time_minutes": 60,
+      "success_rate": 0.93,
+      "last_activation": "2025-10-25T10:15:00Z"
+    },
+    "trauma": {
+      "name": "Trauma Protocol",
+      "active_cases": 0,
+      "total_today": 3,
+      "avg_response_time_minutes": 12,
+      "target_time_minutes": 15,
+      "success_rate": 0.97,
+      "last_activation": "2025-10-25T16:45:00Z"
+    }
+  },
+  "current_status": {
+    "total_patients": 8,
+    "waiting_patients": 3,
+    "critical_patients": 1,
+    "average_wait_time_minutes": 18,
+    "ed_capacity_percent": 65,
+    "system_load": "moderate"
+  }
+}
