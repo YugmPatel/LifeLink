@@ -1,7 +1,5 @@
 # 🏥 LifeLink - Instant Emergency, Instant Response
 
-![tag:innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3)
-![tag:hackathon](https://img.shields.io/badge/hackathon-5F43F1)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-00D4FF)](https://langchain-ai.github.io/langgraph/)
 [![Groq AI](https://img.shields.io/badge/Groq-AI-orange)](https://groq.com)
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
