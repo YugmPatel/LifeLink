@@ -21,7 +21,7 @@
 | **GitHub Repository** | [GitHub Repository URL](https://github.com/your-username/lifelink) |
 | **15-Min Demo Video** | [YouTube Demo Video](https://youtube.com/watch?v=your-video-id) |
 | **Presentation Slides (PPT)** | [Presentation Slides](https://docs.google.com/presentation/d/your-presentation-id) |
-| **Project Report (20 pages)** | [Project Report](./LifeLink_Project_Report.txt) |
+| **Project Report** | [Project Report](https://docs.google.com/document/d/14jXTv2SxDsFbtOPjwuw8cInlQHG44XffXEgIsefh4LM/edit?usp=sharing) |
 | **Live Demo - Frontend** | [Frontend Dashboard](https://lifelink-frontend-835015440064.us-central1.run.app) |
 | **Live Demo - API** | [API Backend](https://lifelink-api-835015440064.us-central1.run.app) |
 | **MLOps Dashboard** | [MLOps Dashboard](https://lifelink-dashboard-n7gnlkbdza-uc.a.run.app) |
