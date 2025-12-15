@@ -19,7 +19,7 @@
 | **Requirement** | **Location/Link** |
 |-----------------|-------------------|
 | **GitHub Repository** | [GitHub Repository URL](https://github.com/YugmPatel/LifeLink) |
-| **15-Min Demo Video** | [YouTube Demo Video](https://youtube.com/watch?v=your-video-id) |
+| **Youtube Demo Video** | [YouTube Demo Video](https://youtu.be/br_b7GDHohI) |
 | **Presentation Slides (PPT)** | [Presentation Slides](https://drive.google.com/file/d/1in-_3e7aWlqH0rTu6YlSTZoAWKVWnte_/view?usp=sharing) |
 | **Project Report** | [Project Report](https://docs.google.com/document/d/14jXTv2SxDsFbtOPjwuw8cInlQHG44XffXEgIsefh4LM/edit?usp=sharing) |
 | **Live Demo - Frontend** | [Frontend Dashboard](https://lifelink-frontend-835015440064.us-central1.run.app) |
