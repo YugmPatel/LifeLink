@@ -60,10 +60,10 @@ app = FastAPI(
 )
 
 
-# Add CORS middleware
+# Add CORS middleware - allow all origins for Cloud Run deployment
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
+    allow_origins=["*"],  # Allow all origins for Cloud Run
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -72,7 +72,7 @@ app.add_middleware(
 # Create Socket.IO server
 sio = socketio.AsyncServer(
     async_mode='asgi',
-    cors_allowed_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
+    cors_allowed_origins="*",  # Allow all origins for Cloud Run
     logger=True,
     engineio_logger=True
 )

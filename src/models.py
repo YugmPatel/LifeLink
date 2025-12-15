@@ -11,8 +11,14 @@ class PatientArrivalNotification(BaseModel):
     """Patient arrival notification model"""
     patient_id: str
     arrival_time: datetime
-    protocol: str
-    urgency: int
-    ambulance_report: str
+    vitals: Dict[str, Any] = {}
+    chief_complaint: str = ""
+    ems_report: str = ""
+    priority: int = 2
+    demographics: Optional[Dict[str, Any]] = None
+    # Optional fields for backward compatibility
+    protocol: Optional[str] = None
+    urgency: Optional[int] = None
+    ambulance_report: Optional[str] = None
     eta_minutes: Optional[int] = None
     metadata: Optional[Dict[str, Any]] = None
