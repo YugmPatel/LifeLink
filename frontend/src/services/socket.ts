@@ -46,12 +46,13 @@ class SocketService {
     console.log("🔌 Connecting to WebSocket server...");
 
     this.socket = io(WS_URL, {
-      transports: ["websocket", "polling"],
-      timeout: 10000,
+      transports: ["polling", "websocket"],  // Polling first for Cloud Run compatibility
+      timeout: 20000,
       autoConnect: true,
       reconnection: true,
       reconnectionAttempts: this.maxReconnectAttempts,
       reconnectionDelay: this.reconnectDelay,
+      withCredentials: false,  // Required for CORS
     });
 
     this.setupEventHandlers();
