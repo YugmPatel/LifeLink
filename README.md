@@ -28,6 +28,7 @@
 | **Model Artifacts** | [Model Artifacts](./artifacts/) |
 | **Training Data** | [Training Data](./data/) |
 | **Evaluation Results** | [Evaluation Results](./evaluation_results/) |
+| **Swagger API Link** | [Swagger API Link](https://lifelink-api-835015440064.us-central1.run.app/docs#/dashboard/get_active_cases_api_dashboard_cases_get) |
 
 ### 🎯 SOTA ML Topics Covered
 
