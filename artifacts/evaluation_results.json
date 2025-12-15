@@ -1,0 +1,92 @@
+{
+  "best_model": "logistic_regression",
+  "classification_report": {
+    "General": {
+      "precision": 0.7733990147783252,
+      "recall": 0.98125,
+      "f1-score": 0.8650137741046832,
+      "support": 160.0
+    },
+    "STEMI": {
+      "precision": 0.9701492537313433,
+      "recall": 0.8125,
+      "f1-score": 0.8843537414965986,
+      "support": 80.0
+    },
+    "Stroke": {
+      "precision": 0.974025974025974,
+      "recall": 0.75,
+      "f1-score": 0.847457627118644,
+      "support": 100.0
+    },
+    "Trauma": {
+      "precision": 1.0,
+      "recall": 0.8833333333333333,
+      "f1-score": 0.9380530973451328,
+      "support": 60.0
+    },
+    "accuracy": 0.875,
+    "macro avg": {
+      "precision": 0.9293935606339105,
+      "recall": 0.8567708333333334,
+      "f1-score": 0.8837195600162646,
+      "support": 400.0
+    },
+    "weighted avg": {
+      "precision": 0.8968959501640923,
+      "recall": 0.875,
+      "f1-score": 0.8754486293226239,
+      "support": 400.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      157,
+      1,
+      2,
+      0
+    ],
+    [
+      15,
+      65,
+      0,
+      0
+    ],
+    [
+      25,
+      0,
+      75,
+      0
+    ],
+    [
+      6,
+      1,
+      0,
+      53
+    ]
+  ],
+  "class_names": [
+    "General",
+    "STEMI",
+    "Stroke",
+    "Trauma"
+  ],
+  "model_comparison": {
+    "logistic_regression": {
+      "accuracy": 0.875,
+      "precision": 0.8968959501640923,
+      "recall": 0.875,
+      "f1_score": 0.8754486293226239,
+      "auc_score": 0.9766078737745097,
+      "training_time": 3624.317170608319
+    },
+    "random_forest": {
+      "accuracy": 0.87,
+      "precision": 0.9018867924528302,
+      "recall": 0.87,
+      "f1_score": 0.8704873096581366,
+      "auc_score": 0.9772056832107844,
+      "training_time": 3494.382999591452
+    }
+  }
+}

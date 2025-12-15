@@ -1,0 +1,19 @@
+{
+  "evaluation_timestamp": "2025-12-14T15:10:57.930314",
+  "test_samples": 300,
+  "class_distribution": {
+    "General": 109,
+    "Stroke": 88,
+    "STEMI": 60,
+    "Trauma": 43
+  },
+  "models_evaluated": 2,
+  "groq_performance": {
+    "accuracy": 0.23,
+    "f1_score": 0.13554451524938427
+  },
+  "custom_performance": {
+    "accuracy": 0.9866666666666667,
+    "f1_score": 0.9866860759822337
+  }
+}

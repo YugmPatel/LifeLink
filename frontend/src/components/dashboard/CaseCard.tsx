@@ -1,10 +1,5 @@
-import React from "react";
 import { Clock, Heart, Activity, Droplets } from "lucide-react";
-import {
-  PatientCase,
-  CASE_TYPE_COLORS,
-  STATUS_COLORS,
-} from "../../services/types";
+import { PatientCase } from "../../services/types";
 
 interface CaseCardProps {
   case: PatientCase;

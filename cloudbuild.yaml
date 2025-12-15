@@ -1,0 +1,40 @@
+# Cloud Build configuration for LifeLink MLOps
+steps:
+  # Build Dashboard image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/lifelink-dashboard:$COMMIT_SHA', '-f', 'Dockerfile.dashboard', '.']
+  
+  # Build ML Pipeline image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/lifelink-mlpipeline:$COMMIT_SHA', '-f', 'Dockerfile.mlpipeline', '.']
+  
+  # Push Dashboard image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/lifelink-dashboard:$COMMIT_SHA']
+  
+  # Push ML Pipeline image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/lifelink-mlpipeline:$COMMIT_SHA']
+  
+  # Deploy Dashboard to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'lifelink-dashboard'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/lifelink-dashboard:$COMMIT_SHA'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--port'
+      - '8501'
+      - '--memory'
+      - '2Gi'
+
+images:
+  - 'gcr.io/$PROJECT_ID/lifelink-dashboard:$COMMIT_SHA'
+  - 'gcr.io/$PROJECT_ID/lifelink-mlpipeline:$COMMIT_SHA'

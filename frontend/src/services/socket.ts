@@ -5,10 +5,7 @@
 
 import { io, Socket } from "socket.io-client";
 import {
-  PatientCase,
   ChatMessage,
-  ActivityEntry,
-  WebSocketEvent,
   PatientArrivalEvent,
   ProtocolActivationEvent,
   CaseUpdateEvent,
@@ -234,7 +231,7 @@ class SocketService {
       }
 
       const start = Date.now();
-      this.socket.emit("ping", start, (response: number) => {
+      this.socket.emit("ping", start, () => {
         const latency = Date.now() - start;
         resolve(latency);
       });

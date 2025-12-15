@@ -1,0 +1,42 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+venv
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Node (frontend)
+frontend/node_modules
+frontend/dist
+
+# Test files
+*.test.py
+test_*.py
+*_test.py
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Local development
+.env.local
+*.local
+
+# Kiro
+.kiro

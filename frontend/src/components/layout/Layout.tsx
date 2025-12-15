@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Header from "./Header";
 import MetricsCards from "../dashboard/MetricsCards";
 import LiveCases from "../dashboard/LiveCases";
@@ -21,9 +21,6 @@ const Layout: React.FC = () => {
     cases: realTimeCases,
     activities: realTimeActivities,
     isConnected: dashboardConnected,
-    setMetrics,
-    setCases,
-    setActivities,
   } = useRealTimeDashboard();
 
   const {

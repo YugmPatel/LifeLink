@@ -81,7 +81,7 @@ class ApiService {
     const data = await this.request<DashboardMetrics>("/api/dashboard/metrics");
     return {
       ...data,
-      lastUpdated: new Date(data.lastUpdated),
+      last_updated: new Date(data.last_updated),
     };
   }
 

@@ -1,0 +1,4501 @@
+id,protocol,report_text,demographics,vitals,timestamp,urgency
+General_0527,General,"🚑 AMBULANCE REPORT
+Patient: 77yo male
+Weight: 51 kg
+
+CHIEF COMPLAINT: flu-like symptoms with chills with shortness of breath and anxiety
+
+VITAL SIGNS:
+• HR: 104 bpm
+• BP: 126/81 mmHg
+• SpO2: 93%
+• Temp: 38.6°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 6 minutes",77yo male,HR:104 BP:126/81 SpO2:93%,2025-12-12 01:05:58.182385,High
+General_0267,General,"🚑 AMBULANCE REPORT
+Patient: 75yo female
+Weight: 111 kg
+
+CHIEF COMPLAINT: allergic reaction with mild swelling
+
+VITAL SIGNS:
+• HR: 102 bpm
+• BP: 96/68 mmHg
+• SpO2: 96%
+• Temp: 38.7°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 19 minutes",75yo female,HR:102 BP:96/68 SpO2:96%,2025-12-12 20:05:58.177318,Low
+General_0306,General,"🚑 AMBULANCE REPORT
+Patient: 25yo male
+Weight: 80 kg
+
+CHIEF COMPLAINT: nausea with anxiety attack with palpitations
+
+VITAL SIGNS:
+• HR: 86 bpm
+• BP: 115/95 mmHg
+• SpO2: 90%
+• Temp: 35.9°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 19 minutes",25yo male,HR:86 BP:115/95 SpO2:90%,2025-12-14 09:05:58.178017,Low
+General_0379,General,"🚑 AMBULANCE REPORT
+Patient: 63yo male
+Weight: 53 kg
+
+CHIEF COMPLAINT: allergic reaction with mild swelling with shortness of breath and chest discomfort
+
+VITAL SIGNS:
+• HR: 63 bpm
+• BP: 100/108 mmHg
+• SpO2: 100%
+• Temp: 38.2°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 20 minutes",63yo male,HR:63 BP:100/108 SpO2:100%,2025-12-12 06:05:58.179412,Medium
+Stroke_0141,Stroke,"🚑 AMBULANCE REPORT
+Patient: 38yo male
+Weight: 58 kg
+
+CHIEF COMPLAINT: discomfort with weakness and sudden loss of balance and coordination
+
+VITAL SIGNS:
+• HR: 79 bpm
+• BP: 157/69 mmHg
+• SpO2: 96%
+• Temp: 37.4°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 18 minutes",38yo male,HR:79 BP:157/69 SpO2:96%,2025-12-11 15:05:58.190220,Low
+Trauma_0113,Trauma,"🚑 AMBULANCE REPORT
+Patient: 34yo male
+Weight: 100 kg
+
+CHIEF COMPLAINT: chest and abdominal soreness following impact with nausea
+
+VITAL SIGNS:
+• HR: 122 bpm
+• BP: 117/90 mmHg
+• SpO2: 100%
+• Temp: 35.8°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 19 minutes",34yo male,HR:122 BP:117/90 SpO2:100%,2025-12-11 18:05:58.205099,Low
+Stroke_0474,Stroke,"🚑 AMBULANCE REPORT
+Patient: 68yo female
+Weight: 93 kg
+
+CHIEF COMPLAINT: mild confusion with headache with difficulty finding words and discomfort
+
+VITAL SIGNS:
+• HR: 98 bpm
+• BP: 210/105 mmHg
+• SpO2: 93%
+• Temp: 36.4°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 6 minutes",68yo female,HR:98 BP:210/105 SpO2:93%,2025-12-12 03:05:58.195623,High
+General_0437,General,"🚑 AMBULANCE REPORT
+Patient: 48yo male
+Weight: 58 kg
+
+CHIEF COMPLAINT: anxiety attack with palpitations
+
+VITAL SIGNS:
+• HR: 73 bpm
+• BP: 97/73 mmHg
+• SpO2: 99%
+• Temp: 36.2°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 11 minutes",48yo male,HR:73 BP:97/73 SpO2:99%,2025-12-14 13:05:58.180505,High
+General_0200,General,"🚑 AMBULANCE REPORT
+Patient: 75yo female
+Weight: 100 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation with flu-like symptoms with chills and fatigue
+
+VITAL SIGNS:
+• HR: 103 bpm
+• BP: 142/66 mmHg
+• SpO2: 97%
+• Temp: 37.5°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 6 minutes",75yo female,HR:103 BP:142/66 SpO2:97%,2025-12-12 22:05:58.176101,Low
+Trauma_0170,Trauma,"🚑 AMBULANCE REPORT
+Patient: 37yo female
+Weight: 52 kg
+
+CHIEF COMPLAINT: multiple injuries from fall from height
+
+VITAL SIGNS:
+• HR: 107 bpm
+• BP: 120/81 mmHg
+• SpO2: 94%
+• Temp: 38.1°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 7 minutes",37yo female,HR:107 BP:120/81 SpO2:94%,2025-12-13 04:05:58.205947,Medium
+STEMI_0000,STEMI,"🚑 AMBULANCE REPORT
+Patient: 34yo male
+Weight: 68 kg
+
+CHIEF COMPLAINT: back soreness between shoulder blades with weakness
+
+VITAL SIGNS:
+• HR: 107 bpm
+• BP: 168/80 mmHg
+• SpO2: 89%
+• Temp: 35.7°C
+
+ASSESSMENT: Patient clutching chest during transport
+
+ETA: 11 minutes",34yo male,HR:107 BP:168/80 SpO2:89%,2025-12-14 01:05:58.196058,High
+Stroke_0346,Stroke,"🚑 AMBULANCE REPORT
+Patient: 49yo female
+Weight: 115 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 80 bpm
+• BP: 90/80 mmHg
+• SpO2: 97%
+• Temp: 39.1°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 20 minutes",49yo female,HR:80 BP:90/80 SpO2:97%,2025-12-13 04:05:58.193547,Low
+General_0100,General,"🚑 AMBULANCE REPORT
+Patient: 42yo female
+Weight: 90 kg
+
+CHIEF COMPLAINT: nausea with chest discomfort and flu-like symptoms with chills
+
+VITAL SIGNS:
+• HR: 92 bpm
+• BP: 166/104 mmHg
+• SpO2: 91%
+• Temp: 37.3°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 16 minutes",42yo female,HR:92 BP:166/104 SpO2:91%,2025-12-12 12:05:58.174215,High
+Trauma_0176,Trauma,"🚑 AMBULANCE REPORT
+Patient: 47yo female
+Weight: 102 kg
+
+CHIEF COMPLAINT: discomfort with chest and abdominal pain following impact
+
+VITAL SIGNS:
+• HR: 136 bpm
+• BP: 120/87 mmHg
+• SpO2: 100%
+• Temp: 39.1°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 5 minutes",47yo female,HR:136 BP:120/87 SpO2:100%,2025-12-12 13:05:58.206049,Low
+Stroke_0244,Stroke,"🚑 AMBULANCE REPORT
+Patient: 32yo male
+Weight: 99 kg
+
+CHIEF COMPLAINT: weakness
+
+VITAL SIGNS:
+• HR: 97 bpm
+• BP: 217/81 mmHg
+• SpO2: 91%
+• Temp: 35.9°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 13 minutes",32yo male,HR:97 BP:217/81 SpO2:91%,2025-12-13 04:05:58.191920,High
+STEMI_0380,STEMI,"🚑 AMBULANCE REPORT
+Patient: 65yo female
+Weight: 115 kg
+
+CHIEF COMPLAINT: jaw pain with mild chest discomfort with fatigue and nausea
+
+VITAL SIGNS:
+• HR: 64 bpm
+• BP: 96/110 mmHg
+• SpO2: 89%
+• Temp: 38.7°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 6 minutes",65yo female,HR:64 BP:96/110 SpO2:89%,2025-12-13 14:05:58.203058,High
+Stroke_0480,Stroke,"🚑 AMBULANCE REPORT
+Patient: 41yo male
+Weight: 119 kg
+
+CHIEF COMPLAINT: right arm weakness and confusion with sudden loss of balance and coordination and nausea
+
+VITAL SIGNS:
+• HR: 110 bpm
+• BP: 137/64 mmHg
+• SpO2: 92%
+• Temp: 38.1°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 7 minutes",41yo male,HR:110 BP:137/64 SpO2:92%,2025-12-12 07:05:58.195720,Low
+Trauma_0225,Trauma,"🚑 AMBULANCE REPORT
+Patient: 61yo female
+Weight: 94 kg
+
+CHIEF COMPLAINT: anxiety with neck pain following rear-end collision and fatigue
+
+VITAL SIGNS:
+• HR: 145 bpm
+• BP: 161/73 mmHg
+• SpO2: 98%
+• Temp: 37.6°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 18 minutes",61yo female,HR:145 BP:161/73 SpO2:98%,2025-12-12 02:05:58.206806,Medium
+General_0608,General,"🚑 AMBULANCE REPORT
+Patient: 56yo male
+Weight: 83 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever with generalized body aches and malaise
+
+VITAL SIGNS:
+• HR: 69 bpm
+• BP: 109/81 mmHg
+• SpO2: 98%
+• Temp: 37.1°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 11 minutes",56yo male,HR:69 BP:109/81 SpO2:98%,2025-12-12 18:05:58.183783,Low
+General_0747,General,"🚑 AMBULANCE REPORT
+Patient: 37yo female
+Weight: 93 kg
+
+CHIEF COMPLAINT: generalized body aches and malaise
+
+VITAL SIGNS:
+• HR: 70 bpm
+• BP: 173/74 mmHg
+• SpO2: 94%
+• Temp: 35.7°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 20 minutes",37yo female,HR:70 BP:173/74 SpO2:94%,2025-12-13 18:05:58.186906,High
+General_0507,General,"🚑 AMBULANCE REPORT
+Patient: 70yo female
+Weight: 110 kg
+
+CHIEF COMPLAINT: sweating
+
+VITAL SIGNS:
+• HR: 116 bpm
+• BP: 113/83 mmHg
+• SpO2: 98%
+• Temp: 35.9°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 19 minutes",70yo female,HR:116 BP:113/83 SpO2:98%,2025-12-13 20:05:58.181982,Low
+Trauma_0169,Trauma,"🚑 AMBULANCE REPORT
+Patient: 69yo female
+Weight: 118 kg
+
+CHIEF COMPLAINT: chest and abdominal pain following impact with multiple injuries from pedestrian struck and anxiety
+
+VITAL SIGNS:
+• HR: 118 bpm
+• BP: 122/64 mmHg
+• SpO2: 99%
+• Temp: 36.2°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 9 minutes",69yo female,HR:118 BP:122/64 SpO2:99%,2025-12-14 03:05:58.205931,Low
+General_0288,General,"🚑 AMBULANCE REPORT
+Patient: 59yo male
+Weight: 100 kg
+
+CHIEF COMPLAINT: anxiety with persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 61 bpm
+• BP: 98/99 mmHg
+• SpO2: 97%
+• Temp: 38.4°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 5 minutes",59yo male,HR:61 BP:98/99 SpO2:97%,2025-12-12 11:05:58.177695,Medium
+STEMI_0197,STEMI,"🚑 AMBULANCE REPORT
+Patient: 35yo male
+Weight: 58 kg
+
+CHIEF COMPLAINT: severe substernal pressure lasting 20+ minutes
+
+VITAL SIGNS:
+• HR: 107 bpm
+• BP: 149/79 mmHg
+• SpO2: 88%
+• Temp: 36.5°C
+
+ASSESSMENT: Patient clutching chest during transport
+
+ETA: 12 minutes",35yo male,HR:107 BP:149/79 SpO2:88%,2025-12-13 00:05:58.199910,Medium
+STEMI_0281,STEMI,"🚑 AMBULANCE REPORT
+Patient: 55yo female
+Weight: 55 kg
+
+CHIEF COMPLAINT: upper abdominal discomfort with nausea with fatigue
+
+VITAL SIGNS:
+• HR: 102 bpm
+• BP: 159/95 mmHg
+• SpO2: 99%
+• Temp: 39.4°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 16 minutes",55yo female,HR:102 BP:159/95 SpO2:99%,2025-12-14 15:05:58.201616,Medium
+Trauma_0067,Trauma,"🚑 AMBULANCE REPORT
+Patient: 57yo male
+Weight: 55 kg
+
+CHIEF COMPLAINT: chest discomfort with fatigue
+
+VITAL SIGNS:
+• HR: 122 bpm
+• BP: 129/77 mmHg
+• SpO2: 94%
+• Temp: 38.0°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 7 minutes",57yo male,HR:122 BP:129/77 SpO2:94%,2025-12-13 11:05:58.204411,High
+STEMI_0181,STEMI,"🚑 AMBULANCE REPORT
+Patient: 77yo male
+Weight: 94 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 125 bpm
+• BP: 180/108 mmHg
+• SpO2: 93%
+• Temp: 38.6°C
+
+ASSESSMENT: Patient appears uncomfortable and diaphoretic
+
+ETA: 5 minutes",77yo male,HR:125 BP:180/108 SpO2:93%,2025-12-13 19:05:58.199663,Medium
+Trauma_0278,Trauma,"🚑 AMBULANCE REPORT
+Patient: 35yo female
+Weight: 115 kg
+
+CHIEF COMPLAINT: shortness of breath with nausea and low-speed collision with neck soreness
+
+VITAL SIGNS:
+• HR: 113 bpm
+• BP: 152/95 mmHg
+• SpO2: 90%
+• Temp: 36.8°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 9 minutes",35yo female,HR:113 BP:152/95 SpO2:90%,2025-12-12 23:05:58.207600,Medium
+Stroke_0455,Stroke,"🚑 AMBULANCE REPORT
+Patient: 64yo male
+Weight: 81 kg
+
+CHIEF COMPLAINT: weakness with discomfort and dizziness
+
+VITAL SIGNS:
+• HR: 62 bpm
+• BP: 171/60 mmHg
+• SpO2: 88%
+• Temp: 37.9°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 16 minutes",64yo male,HR:62 BP:171/60 SpO2:88%,2025-12-12 09:05:58.195323,High
+General_0248,General,"🚑 AMBULANCE REPORT
+Patient: 46yo male
+Weight: 70 kg
+
+CHIEF COMPLAINT: allergic reaction with mild swelling
+
+VITAL SIGNS:
+• HR: 77 bpm
+• BP: 142/100 mmHg
+• SpO2: 90%
+• Temp: 37.9°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 17 minutes",46yo male,HR:77 BP:142/100 SpO2:90%,2025-12-13 22:05:58.176970,Low
+General_0511,General,"🚑 AMBULANCE REPORT
+Patient: 57yo male
+Weight: 66 kg
+
+CHIEF COMPLAINT: shortness of breath with gradual onset abdominal aching with nausea and fatigue
+
+VITAL SIGNS:
+• HR: 111 bpm
+• BP: 111/63 mmHg
+• SpO2: 98%
+• Temp: 38.5°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 13 minutes",57yo male,HR:111 BP:111/63 SpO2:98%,2025-12-14 07:05:58.182093,Low
+General_0371,General,"🚑 AMBULANCE REPORT
+Patient: 77yo female
+Weight: 69 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 72 bpm
+• BP: 163/94 mmHg
+• SpO2: 96%
+• Temp: 35.8°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 19 minutes",77yo female,HR:72 BP:163/94 SpO2:96%,2025-12-11 18:05:58.179268,Low
+General_0570,General,"🚑 AMBULANCE REPORT
+Patient: 38yo male
+Weight: 57 kg
+
+CHIEF COMPLAINT: chest discomfort with discomfort and nausea
+
+VITAL SIGNS:
+• HR: 101 bpm
+• BP: 153/83 mmHg
+• SpO2: 96%
+• Temp: 39.1°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 6 minutes",38yo male,HR:101 BP:153/83 SpO2:96%,2025-12-12 12:05:58.183164,Low
+General_0744,General,"🚑 AMBULANCE REPORT
+Patient: 49yo female
+Weight: 57 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever with generalized body aches and malaise
+
+VITAL SIGNS:
+• HR: 93 bpm
+• BP: 96/71 mmHg
+• SpO2: 89%
+• Temp: 38.3°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 9 minutes",49yo female,HR:93 BP:96/71 SpO2:89%,2025-12-14 08:05:58.186859,Medium
+Stroke_0149,Stroke,"🚑 AMBULANCE REPORT
+Patient: 50yo male
+Weight: 67 kg
+
+CHIEF COMPLAINT: discomfort
+
+VITAL SIGNS:
+• HR: 80 bpm
+• BP: 201/105 mmHg
+• SpO2: 90%
+• Temp: 36.5°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 8 minutes",50yo male,HR:80 BP:201/105 SpO2:90%,2025-12-13 08:05:58.190361,High
+General_0627,General,"🚑 AMBULANCE REPORT
+Patient: 29yo female
+Weight: 91 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 117 bpm
+• BP: 107/94 mmHg
+• SpO2: 94%
+• Temp: 37.3°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 8 minutes",29yo female,HR:117 BP:107/94 SpO2:94%,2025-12-13 00:05:58.184095,High
+Stroke_0225,Stroke,"🚑 AMBULANCE REPORT
+Patient: 55yo female
+Weight: 82 kg
+
+CHIEF COMPLAINT: weakness
+
+VITAL SIGNS:
+• HR: 103 bpm
+• BP: 159/109 mmHg
+• SpO2: 96%
+• Temp: 36.4°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 15 minutes",55yo female,HR:103 BP:159/109 SpO2:96%,2025-12-12 01:05:58.191617,Low
+Stroke_0103,Stroke,"🚑 AMBULANCE REPORT
+Patient: 49yo male
+Weight: 73 kg
+
+CHIEF COMPLAINT: discomfort with nausea
+
+VITAL SIGNS:
+• HR: 118 bpm
+• BP: 201/92 mmHg
+• SpO2: 92%
+• Temp: 38.7°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 7 minutes",49yo male,HR:118 BP:201/92 SpO2:92%,2025-12-12 12:05:58.189567,Medium
+STEMI_0214,STEMI,"🚑 AMBULANCE REPORT
+Patient: 39yo female
+Weight: 116 kg
+
+CHIEF COMPLAINT: chest discomfort unrelieved by rest with discomfort and crushing chest discomfort radiating to left arm
+
+VITAL SIGNS:
+• HR: 117 bpm
+• BP: 163/85 mmHg
+• SpO2: 91%
+• Temp: 35.8°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 17 minutes",39yo female,HR:117 BP:163/85 SpO2:91%,2025-12-13 18:05:58.200176,High
+Stroke_0121,Stroke,"🚑 AMBULANCE REPORT
+Patient: 34yo female
+Weight: 120 kg
+
+CHIEF COMPLAINT: discomfort
+
+VITAL SIGNS:
+• HR: 73 bpm
+• BP: 191/76 mmHg
+• SpO2: 99%
+• Temp: 35.6°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 16 minutes",34yo female,HR:73 BP:191/76 SpO2:99%,2025-12-13 18:05:58.189882,Low
+Stroke_0443,Stroke,"🚑 AMBULANCE REPORT
+Patient: 68yo female
+Weight: 110 kg
+
+CHIEF COMPLAINT: sudden onset left-sided weakness
+
+VITAL SIGNS:
+• HR: 60 bpm
+• BP: 169/84 mmHg
+• SpO2: 94%
+• Temp: 36.5°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 12 minutes",68yo female,HR:60 BP:169/84 SpO2:94%,2025-12-11 18:05:58.195129,Medium
+STEMI_0125,STEMI,"🚑 AMBULANCE REPORT
+Patient: 69yo male
+Weight: 67 kg
+
+CHIEF COMPLAINT: back pain between shoulder blades with dizziness
+
+VITAL SIGNS:
+• HR: 116 bpm
+• BP: 94/87 mmHg
+• SpO2: 95%
+• Temp: 39.5°C
+
+ASSESSMENT: Patient appears uncomfortable and diaphoretic
+
+ETA: 14 minutes",69yo male,HR:116 BP:94/87 SpO2:95%,2025-12-13 11:05:58.198182,Medium
+General_0758,General,"🚑 AMBULANCE REPORT
+Patient: 38yo female
+Weight: 59 kg
+
+CHIEF COMPLAINT: discomfort with fatigue
+
+VITAL SIGNS:
+• HR: 111 bpm
+• BP: 94/100 mmHg
+• SpO2: 99%
+• Temp: 35.8°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 17 minutes",38yo female,HR:111 BP:94/100 SpO2:99%,2025-12-14 03:05:58.187082,Low
+General_0258,General,"🚑 AMBULANCE REPORT
+Patient: 37yo male
+Weight: 113 kg
+
+CHIEF COMPLAINT: allergic reaction with mild swelling with anxiety attack with palpitations and chest discomfort
+
+VITAL SIGNS:
+• HR: 82 bpm
+• BP: 143/102 mmHg
+• SpO2: 96%
+• Temp: 38.6°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 12 minutes",37yo male,HR:82 BP:143/102 SpO2:96%,2025-12-12 02:05:58.177158,Low
+General_0044,General,"🚑 AMBULANCE REPORT
+Patient: 75yo female
+Weight: 105 kg
+
+CHIEF COMPLAINT: migraine headache with light sensitivity
+
+VITAL SIGNS:
+• HR: 99 bpm
+• BP: 163/64 mmHg
+• SpO2: 94%
+• Temp: 38.9°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 10 minutes",75yo female,HR:99 BP:163/64 SpO2:94%,2025-12-14 14:05:58.173070,Low
+General_0720,General,"🚑 AMBULANCE REPORT
+Patient: 25yo male
+Weight: 74 kg
+
+CHIEF COMPLAINT: generalized body aches and malaise
+
+VITAL SIGNS:
+• HR: 85 bpm
+• BP: 160/83 mmHg
+• SpO2: 97%
+• Temp: 39.4°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 20 minutes",25yo male,HR:85 BP:160/83 SpO2:97%,2025-12-12 05:05:58.186463,High
+General_0117,General,"🚑 AMBULANCE REPORT
+Patient: 39yo female
+Weight: 52 kg
+
+CHIEF COMPLAINT: migraine headache with light sensitivity with fatigue and flu-like symptoms with chills
+
+VITAL SIGNS:
+• HR: 70 bpm
+• BP: 178/67 mmHg
+• SpO2: 96%
+• Temp: 36.8°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 15 minutes",39yo female,HR:70 BP:178/67 SpO2:96%,2025-12-12 08:05:58.174555,High
+STEMI_0053,STEMI,"🚑 AMBULANCE REPORT
+Patient: 56yo female
+Weight: 93 kg
+
+CHIEF COMPLAINT: chest pain with jaw and shoulder discomfort with discomfort and anxiety
+
+VITAL SIGNS:
+• HR: 119 bpm
+• BP: 165/107 mmHg
+• SpO2: 94%
+• Temp: 35.8°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 16 minutes",56yo female,HR:119 BP:165/107 SpO2:94%,2025-12-12 15:05:58.196891,High
+STEMI_0338,STEMI,"🚑 AMBULANCE REPORT
+Patient: 82yo female
+Weight: 100 kg
+
+CHIEF COMPLAINT: crushing chest aching radiating to left arm with nausea
+
+VITAL SIGNS:
+• HR: 67 bpm
+• BP: 97/88 mmHg
+• SpO2: 95%
+• Temp: 38.6°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 14 minutes",82yo female,HR:67 BP:97/88 SpO2:95%,2025-12-14 14:05:58.202444,High
+STEMI_0082,STEMI,"🚑 AMBULANCE REPORT
+Patient: 64yo female
+Weight: 81 kg
+
+CHIEF COMPLAINT: upper abdominal discomfort with nausea with fatigue
+
+VITAL SIGNS:
+• HR: 72 bpm
+• BP: 135/90 mmHg
+• SpO2: 99%
+• Temp: 35.6°C
+
+ASSESSMENT: Patient appears uncomfortable and diaphoretic
+
+ETA: 8 minutes",64yo female,HR:72 BP:135/90 SpO2:99%,2025-12-12 14:05:58.197349,High
+Trauma_0117,Trauma,"🚑 AMBULANCE REPORT
+Patient: 36yo male
+Weight: 67 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 123 bpm
+• BP: 176/75 mmHg
+• SpO2: 88%
+• Temp: 36.8°C
+
+ASSESSMENT: C-spine precautions maintained during transport
+
+ETA: 15 minutes",36yo male,HR:123 BP:176/75 SpO2:88%,2025-12-14 01:05:58.205158,Medium
+STEMI_0215,STEMI,"🚑 AMBULANCE REPORT
+Patient: 77yo female
+Weight: 99 kg
+
+CHIEF COMPLAINT: sweating
+
+VITAL SIGNS:
+• HR: 102 bpm
+• BP: 123/62 mmHg
+• SpO2: 90%
+• Temp: 35.9°C
+
+ASSESSMENT: Patient clutching chest during transport
+
+ETA: 19 minutes",77yo female,HR:102 BP:123/62 SpO2:90%,2025-12-14 14:05:58.200192,Low
+Trauma_0200,Trauma,"🚑 AMBULANCE REPORT
+Patient: 46yo male
+Weight: 110 kg
+
+CHIEF COMPLAINT: multiple injuries from pedestrian struck with shortness of breath and nausea
+
+VITAL SIGNS:
+• HR: 98 bpm
+• BP: 141/71 mmHg
+• SpO2: 94%
+• Temp: 38.6°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 10 minutes",46yo male,HR:98 BP:141/71 SpO2:94%,2025-12-11 17:05:58.206430,Low
+Stroke_0337,Stroke,"🚑 AMBULANCE REPORT
+Patient: 74yo male
+Weight: 109 kg
+
+CHIEF COMPLAINT: difficulty speaking and slurred words with facial drooping with speech difficulty and anxiety
+
+VITAL SIGNS:
+• HR: 110 bpm
+• BP: 184/88 mmHg
+• SpO2: 100%
+• Temp: 36.5°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 9 minutes",74yo male,HR:110 BP:184/88 SpO2:100%,2025-12-14 01:05:58.193406,High
+General_0796,General,"🚑 AMBULANCE REPORT
+Patient: 75yo female
+Weight: 102 kg
+
+CHIEF COMPLAINT: dizziness with weakness
+
+VITAL SIGNS:
+• HR: 76 bpm
+• BP: 120/77 mmHg
+• SpO2: 90%
+• Temp: 38.3°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 16 minutes",75yo female,HR:76 BP:120/77 SpO2:90%,2025-12-14 03:05:58.187703,High
+Trauma_0102,Trauma,"🚑 AMBULANCE REPORT
+Patient: 56yo female
+Weight: 89 kg
+
+CHIEF COMPLAINT: anxiety
+
+VITAL SIGNS:
+• HR: 139 bpm
+• BP: 174/64 mmHg
+• SpO2: 92%
+• Temp: 35.8°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 9 minutes",56yo female,HR:139 BP:174/64 SpO2:92%,2025-12-14 14:05:58.204935,Low
+General_0069,General,"🚑 AMBULANCE REPORT
+Patient: 29yo female
+Weight: 94 kg
+
+CHIEF COMPLAINT: fatigue
+
+VITAL SIGNS:
+• HR: 60 bpm
+• BP: 152/101 mmHg
+• SpO2: 94%
+• Temp: 39.2°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 16 minutes",29yo female,HR:60 BP:152/101 SpO2:94%,2025-12-12 21:05:58.173581,Low
+General_0372,General,"🚑 AMBULANCE REPORT
+Patient: 50yo female
+Weight: 77 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 80 bpm
+• BP: 141/81 mmHg
+• SpO2: 91%
+• Temp: 38.9°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 10 minutes",50yo female,HR:80 BP:141/81 SpO2:91%,2025-12-14 11:05:58.179285,High
+General_0047,General,"🚑 AMBULANCE REPORT
+Patient: 34yo male
+Weight: 108 kg
+
+CHIEF COMPLAINT: flu-like symptoms with chills with anxiety attack with palpitations
+
+VITAL SIGNS:
+• HR: 75 bpm
+• BP: 178/99 mmHg
+• SpO2: 93%
+• Temp: 38.7°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 18 minutes",34yo male,HR:75 BP:178/99 SpO2:93%,2025-12-13 19:05:58.173132,High
+Stroke_0425,Stroke,"🚑 AMBULANCE REPORT
+Patient: 46yo female
+Weight: 97 kg
+
+CHIEF COMPLAINT: fatigue
+
+VITAL SIGNS:
+• HR: 94 bpm
+• BP: 154/90 mmHg
+• SpO2: 96%
+• Temp: 36.3°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 16 minutes",46yo female,HR:94 BP:154/90 SpO2:96%,2025-12-13 06:05:58.194843,Low
+Trauma_0125,Trauma,"🚑 AMBULANCE REPORT
+Patient: 26yo male
+Weight: 93 kg
+
+CHIEF COMPLAINT: weakness with head injury with brief loss of consciousness and chest and abdominal pain following impact
+
+VITAL SIGNS:
+• HR: 106 bpm
+• BP: 162/95 mmHg
+• SpO2: 96%
+• Temp: 39.2°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 11 minutes",26yo male,HR:106 BP:162/95 SpO2:96%,2025-12-11 20:05:58.205276,Low
+General_0552,General,"🚑 AMBULANCE REPORT
+Patient: 37yo female
+Weight: 81 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 112 bpm
+• BP: 150/109 mmHg
+• SpO2: 95%
+• Temp: 39.2°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 12 minutes",37yo female,HR:112 BP:150/109 SpO2:95%,2025-12-13 10:05:58.182853,Low
+General_0567,General,"🚑 AMBULANCE REPORT
+Patient: 68yo male
+Weight: 79 kg
+
+CHIEF COMPLAINT: gradual onset abdominal pain with nausea with sweating
+
+VITAL SIGNS:
+• HR: 96 bpm
+• BP: 163/105 mmHg
+• SpO2: 89%
+• Temp: 37.7°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 10 minutes",68yo male,HR:96 BP:163/105 SpO2:89%,2025-12-14 02:05:58.183115,High
+STEMI_0195,STEMI,"🚑 AMBULANCE REPORT
+Patient: 69yo female
+Weight: 51 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 71 bpm
+• BP: 163/79 mmHg
+• SpO2: 88%
+• Temp: 39.0°C
+
+ASSESSMENT: Patient clutching chest during transport
+
+ETA: 12 minutes",69yo female,HR:71 BP:163/79 SpO2:88%,2025-12-14 08:05:58.199880,High
+General_0104,General,"🚑 AMBULANCE REPORT
+Patient: 47yo female
+Weight: 67 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation
+
+VITAL SIGNS:
+• HR: 78 bpm
+• BP: 149/88 mmHg
+• SpO2: 88%
+• Temp: 37.4°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 18 minutes",47yo female,HR:78 BP:149/88 SpO2:88%,2025-12-13 04:05:58.174293,Low
+General_0677,General,"🚑 AMBULANCE REPORT
+Patient: 78yo male
+Weight: 74 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 70 bpm
+• BP: 139/81 mmHg
+• SpO2: 90%
+• Temp: 35.8°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 14 minutes",78yo male,HR:70 BP:139/81 SpO2:90%,2025-12-12 14:05:58.185638,High
+General_0072,General,"🚑 AMBULANCE REPORT
+Patient: 71yo female
+Weight: 116 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation with fatigue and weakness
+
+VITAL SIGNS:
+• HR: 92 bpm
+• BP: 143/93 mmHg
+• SpO2: 97%
+• Temp: 36.6°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 16 minutes",71yo female,HR:92 BP:143/93 SpO2:97%,2025-12-14 01:05:58.173640,Low
+Trauma_0206,Trauma,"🚑 AMBULANCE REPORT
+Patient: 66yo male
+Weight: 53 kg
+
+CHIEF COMPLAINT: neck pain following rear-end collision with fatigue
+
+VITAL SIGNS:
+• HR: 109 bpm
+• BP: 118/94 mmHg
+• SpO2: 90%
+• Temp: 38.6°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 12 minutes",66yo male,HR:109 BP:118/94 SpO2:90%,2025-12-13 15:05:58.206518,High
+Stroke_0397,Stroke,"🚑 AMBULANCE REPORT
+Patient: 39yo female
+Weight: 60 kg
+
+CHIEF COMPLAINT: weakness with chest discomfort and discomfort
+
+VITAL SIGNS:
+• HR: 60 bpm
+• BP: 220/79 mmHg
+• SpO2: 89%
+• Temp: 37.9°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 16 minutes",39yo female,HR:60 BP:220/79 SpO2:89%,2025-12-14 13:05:58.194381,Low
+Stroke_0291,Stroke,"🚑 AMBULANCE REPORT
+Patient: 41yo female
+Weight: 89 kg
+
+CHIEF COMPLAINT: right arm weakness and confusion with sweating
+
+VITAL SIGNS:
+• HR: 119 bpm
+• BP: 214/84 mmHg
+• SpO2: 89%
+• Temp: 38.0°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 16 minutes",41yo female,HR:119 BP:214/84 SpO2:89%,2025-12-14 03:05:58.192676,High
+Trauma_0298,Trauma,"🚑 AMBULANCE REPORT
+Patient: 45yo male
+Weight: 69 kg
+
+CHIEF COMPLAINT: multiple injuries from pedestrian struck with extremity deformity and severe pain
+
+VITAL SIGNS:
+• HR: 118 bpm
+• BP: 116/80 mmHg
+• SpO2: 92%
+• Temp: 38.2°C
+
+ASSESSMENT: C-spine precautions maintained during transport
+
+ETA: 7 minutes",45yo male,HR:118 BP:116/80 SpO2:92%,2025-12-13 17:05:58.207901,High
+Trauma_0148,Trauma,"🚑 AMBULANCE REPORT
+Patient: 32yo male
+Weight: 95 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 120 bpm
+• BP: 112/108 mmHg
+• SpO2: 91%
+• Temp: 37.7°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 10 minutes",32yo male,HR:120 BP:112/108 SpO2:91%,2025-12-13 17:05:58.205618,High
+Stroke_0489,Stroke,"🚑 AMBULANCE REPORT
+Patient: 39yo female
+Weight: 112 kg
+
+CHIEF COMPLAINT: nausea with shortness of breath
+
+VITAL SIGNS:
+• HR: 110 bpm
+• BP: 196/104 mmHg
+• SpO2: 100%
+• Temp: 39.3°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 13 minutes",39yo female,HR:110 BP:196/104 SpO2:100%,2025-12-13 07:05:58.195861,Low
+Trauma_0156,Trauma,"🚑 AMBULANCE REPORT
+Patient: 61yo female
+Weight: 117 kg
+
+CHIEF COMPLAINT: nausea
+
+VITAL SIGNS:
+• HR: 121 bpm
+• BP: 155/97 mmHg
+• SpO2: 97%
+• Temp: 38.3°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 11 minutes",61yo female,HR:121 BP:155/97 SpO2:97%,2025-12-12 22:05:58.205736,Low
+Stroke_0313,Stroke,"🚑 AMBULANCE REPORT
+Patient: 44yo male
+Weight: 61 kg
+
+CHIEF COMPLAINT: fatigue with anxiety and right arm weakness and confusion
+
+VITAL SIGNS:
+• HR: 110 bpm
+• BP: 150/67 mmHg
+• SpO2: 98%
+• Temp: 35.8°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 11 minutes",44yo male,HR:110 BP:150/67 SpO2:98%,2025-12-12 16:05:58.193020,Medium
+STEMI_0377,STEMI,"🚑 AMBULANCE REPORT
+Patient: 45yo female
+Weight: 73 kg
+
+CHIEF COMPLAINT: anxiety with sweating and fatigue
+
+VITAL SIGNS:
+• HR: 69 bpm
+• BP: 171/106 mmHg
+• SpO2: 91%
+• Temp: 36.1°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 14 minutes",45yo female,HR:69 BP:171/106 SpO2:91%,2025-12-12 02:05:58.203014,Medium
+Stroke_0252,Stroke,"🚑 AMBULANCE REPORT
+Patient: 67yo female
+Weight: 96 kg
+
+CHIEF COMPLAINT: weakness with anxiety and facial drooping with speech difficulty
+
+VITAL SIGNS:
+• HR: 76 bpm
+• BP: 217/85 mmHg
+• SpO2: 90%
+• Temp: 38.6°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 8 minutes",67yo female,HR:76 BP:217/85 SpO2:90%,2025-12-13 14:05:58.192047,Medium
+General_0011,General,"🚑 AMBULANCE REPORT
+Patient: 48yo male
+Weight: 114 kg
+
+CHIEF COMPLAINT: fatigue with gradual onset abdominal aching with nausea
+
+VITAL SIGNS:
+• HR: 73 bpm
+• BP: 152/98 mmHg
+• SpO2: 100%
+• Temp: 36.6°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 20 minutes",48yo male,HR:73 BP:152/98 SpO2:100%,2025-12-11 20:05:58.172291,High
+Stroke_0100,Stroke,"🚑 AMBULANCE REPORT
+Patient: 27yo female
+Weight: 111 kg
+
+CHIEF COMPLAINT: weakness with difficulty speaking and slurred words
+
+VITAL SIGNS:
+• HR: 112 bpm
+• BP: 185/83 mmHg
+• SpO2: 98%
+• Temp: 37.2°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 18 minutes",27yo female,HR:112 BP:185/83 SpO2:98%,2025-12-14 07:05:58.189516,Medium
+Stroke_0229,Stroke,"🚑 AMBULANCE REPORT
+Patient: 61yo male
+Weight: 88 kg
+
+CHIEF COMPLAINT: anxiety with fatigue
+
+VITAL SIGNS:
+• HR: 81 bpm
+• BP: 215/94 mmHg
+• SpO2: 99%
+• Temp: 37.5°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 19 minutes",61yo male,HR:81 BP:215/94 SpO2:99%,2025-12-14 07:05:58.191682,Medium
+Stroke_0020,Stroke,"🚑 AMBULANCE REPORT
+Patient: 48yo female
+Weight: 71 kg
+
+CHIEF COMPLAINT: anxiety with dizziness
+
+VITAL SIGNS:
+• HR: 77 bpm
+• BP: 208/101 mmHg
+• SpO2: 98%
+• Temp: 38.9°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 19 minutes",48yo female,HR:77 BP:208/101 SpO2:98%,2025-12-13 02:05:58.188140,Low
+STEMI_0308,STEMI,"🚑 AMBULANCE REPORT
+Patient: 85yo female
+Weight: 109 kg
+
+CHIEF COMPLAINT: significant substernal pressure lasting 20+ minutes with chest pain unrelieved by rest
+
+VITAL SIGNS:
+• HR: 99 bpm
+• BP: 167/89 mmHg
+• SpO2: 91%
+• Temp: 37.3°C
+
+ASSESSMENT: Cardiac monitoring shows rhythm changes
+
+ETA: 15 minutes",85yo female,HR:99 BP:167/89 SpO2:91%,2025-12-11 22:05:58.202012,High
+Stroke_0309,Stroke,"🚑 AMBULANCE REPORT
+Patient: 80yo female
+Weight: 100 kg
+
+CHIEF COMPLAINT: weakness with nausea
+
+VITAL SIGNS:
+• HR: 104 bpm
+• BP: 153/96 mmHg
+• SpO2: 97%
+• Temp: 37.4°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 11 minutes",80yo female,HR:104 BP:153/96 SpO2:97%,2025-12-12 10:05:58.192958,Low
+General_0308,General,"🚑 AMBULANCE REPORT
+Patient: 85yo male
+Weight: 99 kg
+
+CHIEF COMPLAINT: anxiety with gradual onset abdominal pain with nausea
+
+VITAL SIGNS:
+• HR: 109 bpm
+• BP: 167/106 mmHg
+• SpO2: 93%
+• Temp: 37.1°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 13 minutes",85yo male,HR:109 BP:167/106 SpO2:93%,2025-12-14 14:05:58.178053,Medium
+Stroke_0307,Stroke,"🚑 AMBULANCE REPORT
+Patient: 39yo male
+Weight: 77 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 100 bpm
+• BP: 159/66 mmHg
+• SpO2: 90%
+• Temp: 38.0°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 5 minutes",39yo male,HR:100 BP:159/66 SpO2:90%,2025-12-12 16:05:58.192926,Medium
+STEMI_0248,STEMI,"🚑 AMBULANCE REPORT
+Patient: 44yo female
+Weight: 53 kg
+
+CHIEF COMPLAINT: nausea with fatigue and back pain between shoulder blades
+
+VITAL SIGNS:
+• HR: 62 bpm
+• BP: 170/98 mmHg
+• SpO2: 88%
+• Temp: 35.5°C
+
+ASSESSMENT: Patient clutching chest during transport
+
+ETA: 5 minutes",44yo female,HR:62 BP:170/98 SpO2:88%,2025-12-13 15:05:58.200970,High
+STEMI_0123,STEMI,"🚑 AMBULANCE REPORT
+Patient: 32yo female
+Weight: 69 kg
+
+CHIEF COMPLAINT: intense substernal pressure lasting 20+ minutes with crushing chest pain radiating to left arm and shortness of breath
+
+VITAL SIGNS:
+• HR: 123 bpm
+• BP: 119/88 mmHg
+• SpO2: 94%
+• Temp: 36.9°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 7 minutes",32yo female,HR:123 BP:119/88 SpO2:94%,2025-12-14 06:05:58.198046,Medium
+Stroke_0299,Stroke,"🚑 AMBULANCE REPORT
+Patient: 28yo male
+Weight: 54 kg
+
+CHIEF COMPLAINT: sweating
+
+VITAL SIGNS:
+• HR: 84 bpm
+• BP: 112/73 mmHg
+• SpO2: 94%
+• Temp: 38.1°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 8 minutes",28yo male,HR:84 BP:112/73 SpO2:94%,2025-12-12 19:05:58.192800,Medium
+STEMI_0104,STEMI,"🚑 AMBULANCE REPORT
+Patient: 49yo female
+Weight: 57 kg
+
+CHIEF COMPLAINT: elephant sitting on chest sensation with dizziness
+
+VITAL SIGNS:
+• HR: 125 bpm
+• BP: 90/101 mmHg
+• SpO2: 94%
+• Temp: 39.2°C
+
+ASSESSMENT: Cardiac monitoring shows rhythm changes
+
+ETA: 19 minutes",49yo female,HR:125 BP:90/101 SpO2:94%,2025-12-12 00:05:58.197695,Low
+General_0144,General,"🚑 AMBULANCE REPORT
+Patient: 39yo female
+Weight: 58 kg
+
+CHIEF COMPLAINT: chronic back aching exacerbation with dizziness
+
+VITAL SIGNS:
+• HR: 68 bpm
+• BP: 148/84 mmHg
+• SpO2: 96%
+• Temp: 37.7°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 8 minutes",39yo female,HR:68 BP:148/84 SpO2:96%,2025-12-13 15:05:58.175092,Medium
+General_0115,General,"🚑 AMBULANCE REPORT
+Patient: 31yo female
+Weight: 50 kg
+
+CHIEF COMPLAINT: migraine headache with light sensitivity
+
+VITAL SIGNS:
+• HR: 120 bpm
+• BP: 169/99 mmHg
+• SpO2: 96%
+• Temp: 38.7°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 16 minutes",31yo female,HR:120 BP:169/99 SpO2:96%,2025-12-14 08:05:58.174515,High
+Trauma_0050,Trauma,"🚑 AMBULANCE REPORT
+Patient: 45yo male
+Weight: 54 kg
+
+CHIEF COMPLAINT: nausea with fatigue and chest discomfort
+
+VITAL SIGNS:
+• HR: 74 bpm
+• BP: 162/106 mmHg
+• SpO2: 91%
+• Temp: 36.5°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 10 minutes",45yo male,HR:74 BP:162/106 SpO2:91%,2025-12-12 14:05:58.204158,Medium
+STEMI_0097,STEMI,"🚑 AMBULANCE REPORT
+Patient: 45yo female
+Weight: 86 kg
+
+CHIEF COMPLAINT: discomfort with dizziness
+
+VITAL SIGNS:
+• HR: 63 bpm
+• BP: 93/68 mmHg
+• SpO2: 88%
+• Temp: 36.1°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 17 minutes",45yo female,HR:63 BP:93/68 SpO2:88%,2025-12-13 20:05:58.197582,Medium
+STEMI_0350,STEMI,"🚑 AMBULANCE REPORT
+Patient: 81yo female
+Weight: 114 kg
+
+CHIEF COMPLAINT: crushing chest pain radiating to left arm with discomfort
+
+VITAL SIGNS:
+• HR: 104 bpm
+• BP: 138/96 mmHg
+• SpO2: 92%
+• Temp: 38.4°C
+
+ASSESSMENT: Cardiac monitoring shows rhythm changes
+
+ETA: 7 minutes",81yo female,HR:104 BP:138/96 SpO2:92%,2025-12-13 16:05:58.202620,High
+Stroke_0453,Stroke,"🚑 AMBULANCE REPORT
+Patient: 40yo female
+Weight: 71 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 107 bpm
+• BP: 138/69 mmHg
+• SpO2: 91%
+• Temp: 36.7°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 16 minutes",40yo female,HR:107 BP:138/69 SpO2:91%,2025-12-12 03:05:58.195291,Low
+General_0374,General,"🚑 AMBULANCE REPORT
+Patient: 44yo male
+Weight: 70 kg
+
+CHIEF COMPLAINT: anxiety with nausea and gradual onset abdominal pain with nausea
+
+VITAL SIGNS:
+• HR: 90 bpm
+• BP: 107/89 mmHg
+• SpO2: 99%
+• Temp: 36.0°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 10 minutes",44yo male,HR:90 BP:107/89 SpO2:99%,2025-12-11 15:05:58.179319,High
+Stroke_0201,Stroke,"🚑 AMBULANCE REPORT
+Patient: 84yo female
+Weight: 61 kg
+
+CHIEF COMPLAINT: sudden severe headache with vision changes with difficulty speaking and slurred words and sudden loss of balance and coordination
+
+VITAL SIGNS:
+• HR: 103 bpm
+• BP: 184/95 mmHg
+• SpO2: 93%
+• Temp: 37.9°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 7 minutes",84yo female,HR:103 BP:184/95 SpO2:93%,2025-12-14 10:05:58.191236,High
+Trauma_0294,Trauma,"🚑 AMBULANCE REPORT
+Patient: 72yo female
+Weight: 65 kg
+
+CHIEF COMPLAINT: head injury with brief loss of consciousness with shortness of breath and fatigue
+
+VITAL SIGNS:
+• HR: 134 bpm
+• BP: 148/87 mmHg
+• SpO2: 92%
+• Temp: 38.3°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 5 minutes",72yo female,HR:134 BP:148/87 SpO2:92%,2025-12-13 05:05:58.207840,High
+Stroke_0470,Stroke,"🚑 AMBULANCE REPORT
+Patient: 83yo male
+Weight: 74 kg
+
+CHIEF COMPLAINT: mild confusion with headache with slight weakness on one side and anxiety
+
+VITAL SIGNS:
+• HR: 103 bpm
+• BP: 159/75 mmHg
+• SpO2: 91%
+• Temp: 36.6°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 6 minutes",83yo male,HR:103 BP:159/75 SpO2:91%,2025-12-13 09:05:58.195558,High
+General_0246,General,"🚑 AMBULANCE REPORT
+Patient: 46yo female
+Weight: 74 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever with discomfort and flu-like symptoms with chills
+
+VITAL SIGNS:
+• HR: 75 bpm
+• BP: 120/89 mmHg
+• SpO2: 88%
+• Temp: 38.7°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 11 minutes",46yo female,HR:75 BP:120/89 SpO2:88%,2025-12-13 08:05:58.176935,Medium
+Trauma_0131,Trauma,"🚑 AMBULANCE REPORT
+Patient: 32yo male
+Weight: 118 kg
+
+CHIEF COMPLAINT: head injury with brief loss of consciousness with nausea and chest and abdominal pain following impact
+
+VITAL SIGNS:
+• HR: 108 bpm
+• BP: 168/64 mmHg
+• SpO2: 95%
+• Temp: 38.1°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 14 minutes",32yo male,HR:108 BP:168/64 SpO2:95%,2025-12-13 21:05:58.205368,Medium
+Stroke_0401,Stroke,"🚑 AMBULANCE REPORT
+Patient: 79yo male
+Weight: 90 kg
+
+CHIEF COMPLAINT: anxiety
+
+VITAL SIGNS:
+• HR: 117 bpm
+• BP: 177/71 mmHg
+• SpO2: 100%
+• Temp: 38.3°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 7 minutes",79yo male,HR:117 BP:177/71 SpO2:100%,2025-12-13 17:05:58.194458,High
+General_0443,General,"🚑 AMBULANCE REPORT
+Patient: 38yo male
+Weight: 50 kg
+
+CHIEF COMPLAINT: migraine headache with light sensitivity
+
+VITAL SIGNS:
+• HR: 72 bpm
+• BP: 128/76 mmHg
+• SpO2: 96%
+• Temp: 37.7°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 6 minutes",38yo male,HR:72 BP:128/76 SpO2:96%,2025-12-12 07:05:58.180612,High
+General_0014,General,"🚑 AMBULANCE REPORT
+Patient: 83yo female
+Weight: 85 kg
+
+CHIEF COMPLAINT: migraine headache with light sensitivity with allergic reaction with mild swelling and anxiety attack with palpitations
+
+VITAL SIGNS:
+• HR: 103 bpm
+• BP: 180/76 mmHg
+• SpO2: 91%
+• Temp: 35.8°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 9 minutes",83yo female,HR:103 BP:180/76 SpO2:91%,2025-12-13 09:05:58.172356,High
+Stroke_0095,Stroke,"🚑 AMBULANCE REPORT
+Patient: 40yo female
+Weight: 63 kg
+
+CHIEF COMPLAINT: nausea with sudden marked headache with vision changes and anxiety
+
+VITAL SIGNS:
+• HR: 97 bpm
+• BP: 159/98 mmHg
+• SpO2: 91%
+• Temp: 38.7°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 13 minutes",40yo female,HR:97 BP:159/98 SpO2:91%,2025-12-14 06:05:58.189429,High
+Stroke_0485,Stroke,"🚑 AMBULANCE REPORT
+Patient: 44yo female
+Weight: 88 kg
+
+CHIEF COMPLAINT: sudden loss of balance and coordination
+
+VITAL SIGNS:
+• HR: 69 bpm
+• BP: 163/105 mmHg
+• SpO2: 92%
+• Temp: 37.7°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 12 minutes",44yo female,HR:69 BP:163/105 SpO2:92%,2025-12-12 07:05:58.195798,Low
+Stroke_0440,Stroke,"🚑 AMBULANCE REPORT
+Patient: 33yo male
+Weight: 64 kg
+
+CHIEF COMPLAINT: fatigue
+
+VITAL SIGNS:
+• HR: 70 bpm
+• BP: 197/63 mmHg
+• SpO2: 95%
+• Temp: 36.8°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 20 minutes",33yo male,HR:70 BP:197/63 SpO2:95%,2025-12-11 22:05:58.195080,Medium
+General_0666,General,"🚑 AMBULANCE REPORT
+Patient: 64yo female
+Weight: 53 kg
+
+CHIEF COMPLAINT: fatigue with chest discomfort and allergic reaction with mild swelling
+
+VITAL SIGNS:
+• HR: 84 bpm
+• BP: 171/70 mmHg
+• SpO2: 95%
+• Temp: 37.2°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 10 minutes",64yo female,HR:84 BP:171/70 SpO2:95%,2025-12-11 17:05:58.185376,Low
+General_0234,General,"🚑 AMBULANCE REPORT
+Patient: 35yo female
+Weight: 58 kg
+
+CHIEF COMPLAINT: chest discomfort with chronic back aching exacerbation and weakness
+
+VITAL SIGNS:
+• HR: 105 bpm
+• BP: 146/90 mmHg
+• SpO2: 88%
+• Temp: 37.2°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 19 minutes",35yo female,HR:105 BP:146/90 SpO2:88%,2025-12-13 15:05:58.176717,Medium
+Stroke_0054,Stroke,"🚑 AMBULANCE REPORT
+Patient: 41yo female
+Weight: 71 kg
+
+CHIEF COMPLAINT: fatigue
+
+VITAL SIGNS:
+• HR: 105 bpm
+• BP: 195/62 mmHg
+• SpO2: 88%
+• Temp: 36.0°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 8 minutes",41yo female,HR:105 BP:195/62 SpO2:88%,2025-12-13 09:05:58.188724,Medium
+General_0414,General,"🚑 AMBULANCE REPORT
+Patient: 61yo male
+Weight: 89 kg
+
+CHIEF COMPLAINT: sweating with chest discomfort
+
+VITAL SIGNS:
+• HR: 75 bpm
+• BP: 168/100 mmHg
+• SpO2: 94%
+• Temp: 39.1°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 17 minutes",61yo male,HR:75 BP:168/100 SpO2:94%,2025-12-14 00:05:58.180086,Low
+General_0357,General,"🚑 AMBULANCE REPORT
+Patient: 41yo female
+Weight: 95 kg
+
+CHIEF COMPLAINT: fatigue with anxiety and nausea
+
+VITAL SIGNS:
+• HR: 62 bpm
+• BP: 106/95 mmHg
+• SpO2: 91%
+• Temp: 35.7°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 19 minutes",41yo female,HR:62 BP:106/95 SpO2:91%,2025-12-13 23:05:58.179013,High
+General_0548,General,"🚑 AMBULANCE REPORT
+Patient: 62yo male
+Weight: 54 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 79 bpm
+• BP: 148/72 mmHg
+• SpO2: 95%
+• Temp: 35.8°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 12 minutes",62yo male,HR:79 BP:148/72 SpO2:95%,2025-12-13 18:05:58.182781,High
+General_0090,General,"🚑 AMBULANCE REPORT
+Patient: 26yo male
+Weight: 80 kg
+
+CHIEF COMPLAINT: weakness with chronic back pain exacerbation
+
+VITAL SIGNS:
+• HR: 89 bpm
+• BP: 168/92 mmHg
+• SpO2: 99%
+• Temp: 35.9°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 20 minutes",26yo male,HR:89 BP:168/92 SpO2:99%,2025-12-12 02:05:58.174011,Medium
+Stroke_0367,Stroke,"🚑 AMBULANCE REPORT
+Patient: 29yo male
+Weight: 91 kg
+
+CHIEF COMPLAINT: nausea with sudden onset left-sided weakness
+
+VITAL SIGNS:
+• HR: 115 bpm
+• BP: 187/65 mmHg
+• SpO2: 98%
+• Temp: 38.5°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 18 minutes",29yo male,HR:115 BP:187/65 SpO2:98%,2025-12-11 18:05:58.193873,Medium
+General_0312,General,"🚑 AMBULANCE REPORT
+Patient: 72yo male
+Weight: 80 kg
+
+CHIEF COMPLAINT: anxiety attack with palpitations with migraine headache with light sensitivity and flu-like symptoms with chills
+
+VITAL SIGNS:
+• HR: 71 bpm
+• BP: 133/93 mmHg
+• SpO2: 96%
+• Temp: 37.9°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 16 minutes",72yo male,HR:71 BP:133/93 SpO2:96%,2025-12-11 17:05:58.178123,Low
+General_0197,General,"🚑 AMBULANCE REPORT
+Patient: 70yo female
+Weight: 78 kg
+
+CHIEF COMPLAINT: allergic reaction with mild swelling with anxiety attack with palpitations and gradual onset abdominal pain with nausea
+
+VITAL SIGNS:
+• HR: 83 bpm
+• BP: 174/61 mmHg
+• SpO2: 92%
+• Temp: 35.5°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 8 minutes",70yo female,HR:83 BP:174/61 SpO2:92%,2025-12-13 09:05:58.176048,Medium
+Trauma_0154,Trauma,"🚑 AMBULANCE REPORT
+Patient: 46yo male
+Weight: 94 kg
+
+CHIEF COMPLAINT: fatigue with shortness of breath
+
+VITAL SIGNS:
+• HR: 81 bpm
+• BP: 179/102 mmHg
+• SpO2: 90%
+• Temp: 37.8°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 6 minutes",46yo male,HR:81 BP:179/102 SpO2:90%,2025-12-11 18:05:58.205708,Medium
+Stroke_0271,Stroke,"🚑 AMBULANCE REPORT
+Patient: 25yo female
+Weight: 110 kg
+
+CHIEF COMPLAINT: facial drooping with speech difficulty
+
+VITAL SIGNS:
+• HR: 88 bpm
+• BP: 185/97 mmHg
+• SpO2: 91%
+• Temp: 35.7°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 6 minutes",25yo female,HR:88 BP:185/97 SpO2:91%,2025-12-14 12:05:58.192352,Medium
+STEMI_0337,STEMI,"🚑 AMBULANCE REPORT
+Patient: 25yo female
+Weight: 85 kg
+
+CHIEF COMPLAINT: sweating with dizziness and jaw pain with mild chest discomfort
+
+VITAL SIGNS:
+• HR: 75 bpm
+• BP: 127/104 mmHg
+• SpO2: 98%
+• Temp: 37.2°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 20 minutes",25yo female,HR:75 BP:127/104 SpO2:98%,2025-12-12 07:05:58.202430,Medium
+General_0264,General,"🚑 AMBULANCE REPORT
+Patient: 62yo female
+Weight: 50 kg
+
+CHIEF COMPLAINT: anxiety with sweating and fatigue
+
+VITAL SIGNS:
+• HR: 89 bpm
+• BP: 100/109 mmHg
+• SpO2: 94%
+• Temp: 37.3°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 6 minutes",62yo female,HR:89 BP:100/109 SpO2:94%,2025-12-13 13:05:58.177264,High
+General_0203,General,"🚑 AMBULANCE REPORT
+Patient: 35yo female
+Weight: 84 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 100 bpm
+• BP: 111/68 mmHg
+• SpO2: 96%
+• Temp: 39.4°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 19 minutes",35yo female,HR:100 BP:111/68 SpO2:96%,2025-12-12 20:05:58.176153,High
+STEMI_0150,STEMI,"🚑 AMBULANCE REPORT
+Patient: 58yo male
+Weight: 119 kg
+
+CHIEF COMPLAINT: dizziness with nausea
+
+VITAL SIGNS:
+• HR: 88 bpm
+• BP: 128/105 mmHg
+• SpO2: 94%
+• Temp: 38.6°C
+
+ASSESSMENT: Patient appears uncomfortable and diaphoretic
+
+ETA: 11 minutes",58yo male,HR:88 BP:128/105 SpO2:94%,2025-12-13 17:05:58.198875,Low
+Trauma_0106,Trauma,"🚑 AMBULANCE REPORT
+Patient: 62yo female
+Weight: 115 kg
+
+CHIEF COMPLAINT: chest and abdominal pain following impact
+
+VITAL SIGNS:
+• HR: 122 bpm
+• BP: 150/75 mmHg
+• SpO2: 100%
+• Temp: 36.1°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 12 minutes",62yo female,HR:122 BP:150/75 SpO2:100%,2025-12-13 20:05:58.204994,Medium
+Trauma_0051,Trauma,"🚑 AMBULANCE REPORT
+Patient: 34yo male
+Weight: 101 kg
+
+CHIEF COMPLAINT: shortness of breath with extremity deformity and severe pain and neck pain following rear-end collision
+
+VITAL SIGNS:
+• HR: 114 bpm
+• BP: 142/100 mmHg
+• SpO2: 89%
+• Temp: 36.2°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 7 minutes",34yo male,HR:114 BP:142/100 SpO2:89%,2025-12-13 16:05:58.204173,Low
+General_0058,General,"🚑 AMBULANCE REPORT
+Patient: 68yo male
+Weight: 109 kg
+
+CHIEF COMPLAINT: flu-like symptoms with chills with allergic reaction with mild swelling
+
+VITAL SIGNS:
+• HR: 66 bpm
+• BP: 178/110 mmHg
+• SpO2: 88%
+• Temp: 35.7°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 8 minutes",68yo male,HR:66 BP:178/110 SpO2:88%,2025-12-14 13:05:58.173361,Medium
+General_0689,General,"🚑 AMBULANCE REPORT
+Patient: 46yo female
+Weight: 87 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation with weakness and persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 76 bpm
+• BP: 144/94 mmHg
+• SpO2: 98%
+• Temp: 37.1°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 17 minutes",46yo female,HR:76 BP:144/94 SpO2:98%,2025-12-13 11:05:58.185951,Low
+Stroke_0403,Stroke,"🚑 AMBULANCE REPORT
+Patient: 67yo male
+Weight: 74 kg
+
+CHIEF COMPLAINT: sudden onset left-sided weakness with dizziness
+
+VITAL SIGNS:
+• HR: 61 bpm
+• BP: 174/73 mmHg
+• SpO2: 96%
+• Temp: 36.9°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 11 minutes",67yo male,HR:61 BP:174/73 SpO2:96%,2025-12-12 12:05:58.194490,Medium
+General_0538,General,"🚑 AMBULANCE REPORT
+Patient: 40yo male
+Weight: 88 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 107 bpm
+• BP: 109/72 mmHg
+• SpO2: 89%
+• Temp: 35.9°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 20 minutes",40yo male,HR:107 BP:109/72 SpO2:89%,2025-12-13 00:05:58.182604,Medium
+STEMI_0218,STEMI,"🚑 AMBULANCE REPORT
+Patient: 75yo female
+Weight: 75 kg
+
+CHIEF COMPLAINT: sweating with discomfort
+
+VITAL SIGNS:
+• HR: 129 bpm
+• BP: 110/81 mmHg
+• SpO2: 100%
+• Temp: 35.6°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 8 minutes",75yo female,HR:129 BP:110/81 SpO2:100%,2025-12-12 07:05:58.200239,High
+General_0315,General,"🚑 AMBULANCE REPORT
+Patient: 46yo female
+Weight: 53 kg
+
+CHIEF COMPLAINT: generalized body aches and malaise
+
+VITAL SIGNS:
+• HR: 63 bpm
+• BP: 113/67 mmHg
+• SpO2: 89%
+• Temp: 35.7°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 11 minutes",46yo female,HR:63 BP:113/67 SpO2:89%,2025-12-13 01:05:58.178181,High
+General_0177,General,"🚑 AMBULANCE REPORT
+Patient: 74yo female
+Weight: 77 kg
+
+CHIEF COMPLAINT: migraine headache with light sensitivity with anxiety and discomfort
+
+VITAL SIGNS:
+• HR: 116 bpm
+• BP: 137/61 mmHg
+• SpO2: 95%
+• Temp: 36.7°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 20 minutes",74yo female,HR:116 BP:137/61 SpO2:95%,2025-12-13 14:05:58.175694,Medium
+Stroke_0411,Stroke,"🚑 AMBULANCE REPORT
+Patient: 26yo female
+Weight: 55 kg
+
+CHIEF COMPLAINT: fatigue with difficulty finding words and slight weakness on one side
+
+VITAL SIGNS:
+• HR: 113 bpm
+• BP: 217/66 mmHg
+• SpO2: 89%
+• Temp: 37.4°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 16 minutes",26yo female,HR:113 BP:217/66 SpO2:89%,2025-12-14 01:05:58.194620,High
+Stroke_0374,Stroke,"🚑 AMBULANCE REPORT
+Patient: 43yo male
+Weight: 80 kg
+
+CHIEF COMPLAINT: sweating with anxiety and difficulty speaking and slurred words
+
+VITAL SIGNS:
+• HR: 115 bpm
+• BP: 193/83 mmHg
+• SpO2: 96%
+• Temp: 39.5°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 7 minutes",43yo male,HR:115 BP:193/83 SpO2:96%,2025-12-12 16:05:58.193984,Low
+General_0760,General,"🚑 AMBULANCE REPORT
+Patient: 58yo male
+Weight: 57 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 77 bpm
+• BP: 180/61 mmHg
+• SpO2: 96%
+• Temp: 37.6°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 7 minutes",58yo male,HR:77 BP:180/61 SpO2:96%,2025-12-11 19:05:58.187114,Medium
+STEMI_0078,STEMI,"🚑 AMBULANCE REPORT
+Patient: 25yo male
+Weight: 114 kg
+
+CHIEF COMPLAINT: severe substernal pressure lasting 20+ minutes
+
+VITAL SIGNS:
+• HR: 114 bpm
+• BP: 178/102 mmHg
+• SpO2: 90%
+• Temp: 37.4°C
+
+ASSESSMENT: Patient clutching chest during transport
+
+ETA: 10 minutes",25yo male,HR:114 BP:178/102 SpO2:90%,2025-12-14 02:05:58.197288,Low
+Trauma_0082,Trauma,"🚑 AMBULANCE REPORT
+Patient: 53yo female
+Weight: 80 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 122 bpm
+• BP: 145/63 mmHg
+• SpO2: 96%
+• Temp: 37.8°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 7 minutes",53yo female,HR:122 BP:145/63 SpO2:96%,2025-12-12 15:05:58.204634,Low
+General_0406,General,"🚑 AMBULANCE REPORT
+Patient: 51yo male
+Weight: 104 kg
+
+CHIEF COMPLAINT: allergic reaction with mild swelling with generalized body aches and malaise
+
+VITAL SIGNS:
+• HR: 98 bpm
+• BP: 90/106 mmHg
+• SpO2: 94%
+• Temp: 39.4°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 8 minutes",51yo male,HR:98 BP:90/106 SpO2:94%,2025-12-13 05:05:58.179937,Low
+General_0236,General,"🚑 AMBULANCE REPORT
+Patient: 59yo male
+Weight: 92 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation with gradual onset abdominal pain with nausea and fatigue
+
+VITAL SIGNS:
+• HR: 92 bpm
+• BP: 166/68 mmHg
+• SpO2: 92%
+• Temp: 36.0°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 12 minutes",59yo male,HR:92 BP:166/68 SpO2:92%,2025-12-13 04:05:58.176754,High
+STEMI_0276,STEMI,"🚑 AMBULANCE REPORT
+Patient: 50yo female
+Weight: 72 kg
+
+CHIEF COMPLAINT: fatigue
+
+VITAL SIGNS:
+• HR: 104 bpm
+• BP: 180/99 mmHg
+• SpO2: 96%
+• Temp: 36.0°C
+
+ASSESSMENT: Cardiac monitoring shows rhythm changes
+
+ETA: 12 minutes",50yo female,HR:104 BP:180/99 SpO2:96%,2025-12-12 08:05:58.201540,High
+General_0324,General,"🚑 AMBULANCE REPORT
+Patient: 46yo female
+Weight: 95 kg
+
+CHIEF COMPLAINT: dizziness with anxiety and persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 76 bpm
+• BP: 125/102 mmHg
+• SpO2: 97%
+• Temp: 35.9°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 6 minutes",46yo female,HR:76 BP:125/102 SpO2:97%,2025-12-13 10:05:58.178339,Medium
+Stroke_0422,Stroke,"🚑 AMBULANCE REPORT
+Patient: 32yo male
+Weight: 92 kg
+
+CHIEF COMPLAINT: sudden onset left-sided weakness with facial drooping with speech difficulty
+
+VITAL SIGNS:
+• HR: 64 bpm
+• BP: 219/79 mmHg
+• SpO2: 96%
+• Temp: 37.1°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 9 minutes",32yo male,HR:64 BP:219/79 SpO2:96%,2025-12-13 07:05:58.194797,Low
+General_0271,General,"🚑 AMBULANCE REPORT
+Patient: 52yo female
+Weight: 60 kg
+
+CHIEF COMPLAINT: flu-like symptoms with chills with discomfort and migraine headache with light sensitivity
+
+VITAL SIGNS:
+• HR: 118 bpm
+• BP: 166/88 mmHg
+• SpO2: 91%
+• Temp: 38.1°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 14 minutes",52yo female,HR:118 BP:166/88 SpO2:91%,2025-12-12 04:05:58.177390,Medium
+General_0331,General,"🚑 AMBULANCE REPORT
+Patient: 46yo male
+Weight: 81 kg
+
+CHIEF COMPLAINT: gradual onset abdominal pain with nausea
+
+VITAL SIGNS:
+• HR: 103 bpm
+• BP: 132/92 mmHg
+• SpO2: 91%
+• Temp: 36.4°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 16 minutes",46yo male,HR:103 BP:132/92 SpO2:91%,2025-12-13 23:05:58.178520,Low
+General_0289,General,"🚑 AMBULANCE REPORT
+Patient: 51yo female
+Weight: 105 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation with sweating
+
+VITAL SIGNS:
+• HR: 91 bpm
+• BP: 149/79 mmHg
+• SpO2: 90%
+• Temp: 36.3°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 6 minutes",51yo female,HR:91 BP:149/79 SpO2:90%,2025-12-13 11:05:58.177713,High
+Trauma_0211,Trauma,"🚑 AMBULANCE REPORT
+Patient: 80yo male
+Weight: 69 kg
+
+CHIEF COMPLAINT: neck pain following rear-end collision with chest and abdominal pain following impact
+
+VITAL SIGNS:
+• HR: 84 bpm
+• BP: 91/79 mmHg
+• SpO2: 97%
+• Temp: 36.9°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 15 minutes",80yo male,HR:84 BP:91/79 SpO2:97%,2025-12-12 17:05:58.206599,Medium
+Stroke_0279,Stroke,"🚑 AMBULANCE REPORT
+Patient: 50yo female
+Weight: 103 kg
+
+CHIEF COMPLAINT: sweating with difficulty finding words
+
+VITAL SIGNS:
+• HR: 85 bpm
+• BP: 197/78 mmHg
+• SpO2: 100%
+• Temp: 39.4°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 18 minutes",50yo female,HR:85 BP:197/78 SpO2:100%,2025-12-13 14:05:58.192488,Low
+Trauma_0247,Trauma,"🚑 AMBULANCE REPORT
+Patient: 83yo female
+Weight: 64 kg
+
+CHIEF COMPLAINT: nausea with anxiety
+
+VITAL SIGNS:
+• HR: 116 bpm
+• BP: 160/66 mmHg
+• SpO2: 96%
+• Temp: 38.8°C
+
+ASSESSMENT: C-spine precautions maintained during transport
+
+ETA: 15 minutes",83yo female,HR:116 BP:160/66 SpO2:96%,2025-12-14 09:05:58.207137,Medium
+Stroke_0124,Stroke,"🚑 AMBULANCE REPORT
+Patient: 30yo male
+Weight: 97 kg
+
+CHIEF COMPLAINT: sudden intense headache with vision changes with anxiety
+
+VITAL SIGNS:
+• HR: 74 bpm
+• BP: 153/108 mmHg
+• SpO2: 88%
+• Temp: 39.3°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 16 minutes",30yo male,HR:74 BP:153/108 SpO2:88%,2025-12-11 16:05:58.189932,Medium
+Trauma_0196,Trauma,"🚑 AMBULANCE REPORT
+Patient: 39yo male
+Weight: 115 kg
+
+CHIEF COMPLAINT: head injury with brief loss of consciousness with sweating and discomfort
+
+VITAL SIGNS:
+• HR: 105 bpm
+• BP: 161/71 mmHg
+• SpO2: 92%
+• Temp: 37.2°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 12 minutes",39yo male,HR:105 BP:161/71 SpO2:92%,2025-12-14 05:05:58.206370,Medium
+General_0721,General,"🚑 AMBULANCE REPORT
+Patient: 84yo male
+Weight: 67 kg
+
+CHIEF COMPLAINT: anxiety with gradual onset abdominal pain with nausea
+
+VITAL SIGNS:
+• HR: 79 bpm
+• BP: 141/103 mmHg
+• SpO2: 94%
+• Temp: 36.0°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 6 minutes",84yo male,HR:79 BP:141/103 SpO2:94%,2025-12-12 04:05:58.186479,Low
+Stroke_0238,Stroke,"🚑 AMBULANCE REPORT
+Patient: 41yo male
+Weight: 82 kg
+
+CHIEF COMPLAINT: anxiety with fatigue and discomfort
+
+VITAL SIGNS:
+• HR: 114 bpm
+• BP: 212/110 mmHg
+• SpO2: 93%
+• Temp: 36.6°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 11 minutes",41yo male,HR:114 BP:212/110 SpO2:93%,2025-12-12 01:05:58.191825,Low
+STEMI_0347,STEMI,"🚑 AMBULANCE REPORT
+Patient: 26yo male
+Weight: 90 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 96 bpm
+• BP: 139/63 mmHg
+• SpO2: 89%
+• Temp: 38.7°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 20 minutes",26yo male,HR:96 BP:139/63 SpO2:89%,2025-12-13 08:05:58.202576,Low
+Stroke_0439,Stroke,"🚑 AMBULANCE REPORT
+Patient: 63yo female
+Weight: 74 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 120 bpm
+• BP: 170/71 mmHg
+• SpO2: 97%
+• Temp: 35.9°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 12 minutes",63yo female,HR:120 BP:170/71 SpO2:97%,2025-12-13 05:05:58.195065,Medium
+General_0068,General,"🚑 AMBULANCE REPORT
+Patient: 55yo male
+Weight: 91 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 84 bpm
+• BP: 134/97 mmHg
+• SpO2: 88%
+• Temp: 37.3°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 14 minutes",55yo male,HR:84 BP:134/97 SpO2:88%,2025-12-11 22:05:58.173562,Medium
+General_0089,General,"🚑 AMBULANCE REPORT
+Patient: 62yo female
+Weight: 93 kg
+
+CHIEF COMPLAINT: anxiety with dizziness and gradual onset abdominal pain with nausea
+
+VITAL SIGNS:
+• HR: 97 bpm
+• BP: 97/80 mmHg
+• SpO2: 88%
+• Temp: 38.8°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 6 minutes",62yo female,HR:97 BP:97/80 SpO2:88%,2025-12-13 09:05:58.173992,Medium
+STEMI_0393,STEMI,"🚑 AMBULANCE REPORT
+Patient: 47yo male
+Weight: 74 kg
+
+CHIEF COMPLAINT: crushing chest aching radiating to left arm with anxiety and weakness
+
+VITAL SIGNS:
+• HR: 93 bpm
+• BP: 177/82 mmHg
+• SpO2: 92%
+• Temp: 37.2°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 20 minutes",47yo male,HR:93 BP:177/82 SpO2:92%,2025-12-12 08:05:58.203250,Medium
+General_0658,General,"🚑 AMBULANCE REPORT
+Patient: 27yo male
+Weight: 78 kg
+
+CHIEF COMPLAINT: generalized body aches and malaise with nausea
+
+VITAL SIGNS:
+• HR: 61 bpm
+• BP: 165/79 mmHg
+• SpO2: 94%
+• Temp: 35.7°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 12 minutes",27yo male,HR:61 BP:165/79 SpO2:94%,2025-12-14 15:05:58.184749,Medium
+Stroke_0278,Stroke,"🚑 AMBULANCE REPORT
+Patient: 32yo female
+Weight: 51 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 102 bpm
+• BP: 185/71 mmHg
+• SpO2: 96%
+• Temp: 35.9°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 15 minutes",32yo female,HR:102 BP:185/71 SpO2:96%,2025-12-12 13:05:58.192472,Medium
+General_0413,General,"🚑 AMBULANCE REPORT
+Patient: 54yo female
+Weight: 73 kg
+
+CHIEF COMPLAINT: allergic reaction with mild swelling with fatigue and dizziness
+
+VITAL SIGNS:
+• HR: 68 bpm
+• BP: 150/92 mmHg
+• SpO2: 100%
+• Temp: 36.9°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 10 minutes",54yo female,HR:68 BP:150/92 SpO2:100%,2025-12-13 02:05:58.180069,Medium
+STEMI_0342,STEMI,"🚑 AMBULANCE REPORT
+Patient: 81yo male
+Weight: 55 kg
+
+CHIEF COMPLAINT: chest pain with jaw and shoulder discomfort with nausea and dizziness
+
+VITAL SIGNS:
+• HR: 108 bpm
+• BP: 177/110 mmHg
+• SpO2: 95%
+• Temp: 37.9°C
+
+ASSESSMENT: Patient clutching chest during transport
+
+ETA: 8 minutes",81yo male,HR:108 BP:177/110 SpO2:95%,2025-12-12 04:05:58.202505,Medium
+General_0252,General,"🚑 AMBULANCE REPORT
+Patient: 63yo female
+Weight: 70 kg
+
+CHIEF COMPLAINT: dizziness with migraine headache with light sensitivity
+
+VITAL SIGNS:
+• HR: 106 bpm
+• BP: 134/80 mmHg
+• SpO2: 95%
+• Temp: 37.8°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 11 minutes",63yo female,HR:106 BP:134/80 SpO2:95%,2025-12-12 19:05:58.177042,High
+General_0140,General,"🚑 AMBULANCE REPORT
+Patient: 57yo male
+Weight: 98 kg
+
+CHIEF COMPLAINT: dizziness with migraine headache with light sensitivity
+
+VITAL SIGNS:
+• HR: 80 bpm
+• BP: 92/94 mmHg
+• SpO2: 88%
+• Temp: 38.5°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 14 minutes",57yo male,HR:80 BP:92/94 SpO2:88%,2025-12-12 09:05:58.175013,Low
+Stroke_0484,Stroke,"🚑 AMBULANCE REPORT
+Patient: 57yo female
+Weight: 76 kg
+
+CHIEF COMPLAINT: nausea with chest discomfort
+
+VITAL SIGNS:
+• HR: 61 bpm
+• BP: 212/95 mmHg
+• SpO2: 91%
+• Temp: 38.2°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 18 minutes",57yo female,HR:61 BP:212/95 SpO2:91%,2025-12-12 05:05:58.195782,High
+General_0301,General,"🚑 AMBULANCE REPORT
+Patient: 70yo male
+Weight: 72 kg
+
+CHIEF COMPLAINT: migraine headache with light sensitivity
+
+VITAL SIGNS:
+• HR: 116 bpm
+• BP: 120/84 mmHg
+• SpO2: 99%
+• Temp: 36.7°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 19 minutes",70yo male,HR:116 BP:120/84 SpO2:99%,2025-12-13 03:05:58.177929,Medium
+Trauma_0202,Trauma,"🚑 AMBULANCE REPORT
+Patient: 57yo male
+Weight: 110 kg
+
+CHIEF COMPLAINT: fatigue with multiple injuries from workplace injury
+
+VITAL SIGNS:
+• HR: 72 bpm
+• BP: 169/68 mmHg
+• SpO2: 92%
+• Temp: 37.7°C
+
+ASSESSMENT: C-spine precautions maintained during transport
+
+ETA: 6 minutes",57yo male,HR:72 BP:169/68 SpO2:92%,2025-12-12 17:05:58.206460,Low
+Stroke_0077,Stroke,"🚑 AMBULANCE REPORT
+Patient: 49yo male
+Weight: 66 kg
+
+CHIEF COMPLAINT: right arm weakness and confusion
+
+VITAL SIGNS:
+• HR: 66 bpm
+• BP: 210/64 mmHg
+• SpO2: 95%
+• Temp: 36.3°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 8 minutes",49yo male,HR:66 BP:210/64 SpO2:95%,2025-12-13 10:05:58.189120,Medium
+STEMI_0170,STEMI,"🚑 AMBULANCE REPORT
+Patient: 34yo male
+Weight: 52 kg
+
+CHIEF COMPLAINT: elephant sitting on chest sensation with weakness and chest pain with jaw and shoulder discomfort
+
+VITAL SIGNS:
+• HR: 98 bpm
+• BP: 121/109 mmHg
+• SpO2: 91%
+• Temp: 37.9°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 14 minutes",34yo male,HR:98 BP:121/109 SpO2:91%,2025-12-13 15:05:58.199473,High
+STEMI_0106,STEMI,"🚑 AMBULANCE REPORT
+Patient: 66yo female
+Weight: 87 kg
+
+CHIEF COMPLAINT: chest pain unrelieved by rest with discomfort and chest pain with jaw and shoulder discomfort
+
+VITAL SIGNS:
+• HR: 93 bpm
+• BP: 180/83 mmHg
+• SpO2: 95%
+• Temp: 35.8°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 13 minutes",66yo female,HR:93 BP:180/83 SpO2:95%,2025-12-12 21:05:58.197728,Low
+Trauma_0299,Trauma,"🚑 AMBULANCE REPORT
+Patient: 59yo male
+Weight: 101 kg
+
+CHIEF COMPLAINT: sweating with workplace injury with back discomfort and anxiety
+
+VITAL SIGNS:
+• HR: 139 bpm
+• BP: 171/94 mmHg
+• SpO2: 96%
+• Temp: 38.1°C
+
+ASSESSMENT: C-spine precautions maintained during transport
+
+ETA: 14 minutes",59yo male,HR:139 BP:171/94 SpO2:96%,2025-12-13 16:05:58.207916,Medium
+Trauma_0161,Trauma,"🚑 AMBULANCE REPORT
+Patient: 29yo male
+Weight: 79 kg
+
+CHIEF COMPLAINT: anxiety with nausea
+
+VITAL SIGNS:
+• HR: 112 bpm
+• BP: 138/80 mmHg
+• SpO2: 98%
+• Temp: 37.2°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 12 minutes",29yo male,HR:112 BP:138/80 SpO2:98%,2025-12-13 14:05:58.205812,Low
+Trauma_0010,Trauma,"🚑 AMBULANCE REPORT
+Patient: 66yo female
+Weight: 88 kg
+
+CHIEF COMPLAINT: weakness with discomfort
+
+VITAL SIGNS:
+• HR: 106 bpm
+• BP: 119/94 mmHg
+• SpO2: 98%
+• Temp: 35.9°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 9 minutes",66yo female,HR:106 BP:119/94 SpO2:98%,2025-12-11 16:05:58.203540,Medium
+STEMI_0143,STEMI,"🚑 AMBULANCE REPORT
+Patient: 26yo male
+Weight: 64 kg
+
+CHIEF COMPLAINT: chest discomfort with nausea and fatigue
+
+VITAL SIGNS:
+• HR: 88 bpm
+• BP: 173/80 mmHg
+• SpO2: 99%
+• Temp: 37.2°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 13 minutes",26yo male,HR:88 BP:173/80 SpO2:99%,2025-12-12 02:05:58.198768,High
+Stroke_0138,Stroke,"🚑 AMBULANCE REPORT
+Patient: 70yo female
+Weight: 98 kg
+
+CHIEF COMPLAINT: nausea
+
+VITAL SIGNS:
+• HR: 91 bpm
+• BP: 206/63 mmHg
+• SpO2: 94%
+• Temp: 36.1°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 7 minutes",70yo female,HR:91 BP:206/63 SpO2:94%,2025-12-12 12:05:58.190168,Medium
+Stroke_0398,Stroke,"🚑 AMBULANCE REPORT
+Patient: 55yo female
+Weight: 105 kg
+
+CHIEF COMPLAINT: difficulty finding words with chest discomfort
+
+VITAL SIGNS:
+• HR: 67 bpm
+• BP: 154/90 mmHg
+• SpO2: 91%
+• Temp: 39.3°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 12 minutes",55yo female,HR:67 BP:154/90 SpO2:91%,2025-12-11 21:05:58.194405,Low
+General_0299,General,"🚑 AMBULANCE REPORT
+Patient: 30yo female
+Weight: 95 kg
+
+CHIEF COMPLAINT: gradual onset abdominal discomfort with nausea with anxiety
+
+VITAL SIGNS:
+• HR: 89 bpm
+• BP: 157/110 mmHg
+• SpO2: 100%
+• Temp: 36.9°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 5 minutes",30yo female,HR:89 BP:157/110 SpO2:100%,2025-12-12 06:05:58.177892,Medium
+Trauma_0259,Trauma,"🚑 AMBULANCE REPORT
+Patient: 84yo male
+Weight: 101 kg
+
+CHIEF COMPLAINT: weakness with fatigue
+
+VITAL SIGNS:
+• HR: 119 bpm
+• BP: 126/72 mmHg
+• SpO2: 99%
+• Temp: 36.0°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 17 minutes",84yo male,HR:119 BP:126/72 SpO2:99%,2025-12-14 11:05:58.207315,Medium
+General_0057,General,"🚑 AMBULANCE REPORT
+Patient: 71yo female
+Weight: 63 kg
+
+CHIEF COMPLAINT: chest discomfort with anxiety and dizziness
+
+VITAL SIGNS:
+• HR: 115 bpm
+• BP: 139/96 mmHg
+• SpO2: 99%
+• Temp: 37.9°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 18 minutes",71yo female,HR:115 BP:139/96 SpO2:99%,2025-12-12 18:05:58.173341,Low
+Stroke_0472,Stroke,"🚑 AMBULANCE REPORT
+Patient: 44yo female
+Weight: 67 kg
+
+CHIEF COMPLAINT: difficulty speaking and slurred words
+
+VITAL SIGNS:
+• HR: 66 bpm
+• BP: 109/98 mmHg
+• SpO2: 96%
+• Temp: 37.6°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 14 minutes",44yo female,HR:66 BP:109/98 SpO2:96%,2025-12-12 23:05:58.195591,Medium
+General_0752,General,"🚑 AMBULANCE REPORT
+Patient: 42yo male
+Weight: 74 kg
+
+CHIEF COMPLAINT: sweating with weakness
+
+VITAL SIGNS:
+• HR: 79 bpm
+• BP: 140/89 mmHg
+• SpO2: 91%
+• Temp: 36.2°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 13 minutes",42yo male,HR:79 BP:140/89 SpO2:91%,2025-12-11 20:05:58.186987,Low
+Trauma_0043,Trauma,"🚑 AMBULANCE REPORT
+Patient: 34yo female
+Weight: 71 kg
+
+CHIEF COMPLAINT: nausea with weakness
+
+VITAL SIGNS:
+• HR: 85 bpm
+• BP: 178/109 mmHg
+• SpO2: 98%
+• Temp: 35.6°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 17 minutes",34yo female,HR:85 BP:178/109 SpO2:98%,2025-12-13 19:05:58.204052,Medium
+General_0395,General,"🚑 AMBULANCE REPORT
+Patient: 85yo male
+Weight: 92 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever with weakness
+
+VITAL SIGNS:
+• HR: 68 bpm
+• BP: 152/79 mmHg
+• SpO2: 92%
+• Temp: 36.7°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 8 minutes",85yo male,HR:68 BP:152/79 SpO2:92%,2025-12-13 23:05:58.179692,Medium
+General_0186,General,"🚑 AMBULANCE REPORT
+Patient: 34yo male
+Weight: 91 kg
+
+CHIEF COMPLAINT: gradual onset abdominal pain with nausea with anxiety attack with palpitations and migraine headache with light sensitivity
+
+VITAL SIGNS:
+• HR: 83 bpm
+• BP: 112/76 mmHg
+• SpO2: 100%
+• Temp: 39.0°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 17 minutes",34yo male,HR:83 BP:112/76 SpO2:100%,2025-12-11 23:05:58.175851,Low
+Trauma_0110,Trauma,"🚑 AMBULANCE REPORT
+Patient: 33yo male
+Weight: 98 kg
+
+CHIEF COMPLAINT: head injury with brief loss of consciousness
+
+VITAL SIGNS:
+• HR: 140 bpm
+• BP: 108/109 mmHg
+• SpO2: 96%
+• Temp: 37.7°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 7 minutes",33yo male,HR:140 BP:108/109 SpO2:96%,2025-12-14 07:05:58.205054,Low
+STEMI_0091,STEMI,"🚑 AMBULANCE REPORT
+Patient: 81yo female
+Weight: 77 kg
+
+CHIEF COMPLAINT: upper abdominal discomfort with nausea
+
+VITAL SIGNS:
+• HR: 88 bpm
+• BP: 157/94 mmHg
+• SpO2: 98%
+• Temp: 38.7°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 16 minutes",81yo female,HR:88 BP:157/94 SpO2:98%,2025-12-12 23:05:58.197489,Low
+STEMI_0095,STEMI,"🚑 AMBULANCE REPORT
+Patient: 82yo female
+Weight: 103 kg
+
+CHIEF COMPLAINT: chest pain with jaw and shoulder discomfort with elephant sitting on chest sensation
+
+VITAL SIGNS:
+• HR: 114 bpm
+• BP: 159/94 mmHg
+• SpO2: 98%
+• Temp: 38.0°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 13 minutes",82yo female,HR:114 BP:159/94 SpO2:98%,2025-12-12 09:05:58.197552,Medium
+General_0577,General,"🚑 AMBULANCE REPORT
+Patient: 55yo male
+Weight: 119 kg
+
+CHIEF COMPLAINT: chest discomfort with nausea
+
+VITAL SIGNS:
+• HR: 72 bpm
+• BP: 101/68 mmHg
+• SpO2: 91%
+• Temp: 35.7°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 18 minutes",55yo male,HR:72 BP:101/68 SpO2:91%,2025-12-14 05:05:58.183279,Low
+Trauma_0018,Trauma,"🚑 AMBULANCE REPORT
+Patient: 71yo male
+Weight: 120 kg
+
+CHIEF COMPLAINT: low-speed collision with neck soreness with sweating
+
+VITAL SIGNS:
+• HR: 99 bpm
+• BP: 102/109 mmHg
+• SpO2: 89%
+• Temp: 36.4°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 5 minutes",71yo male,HR:99 BP:102/109 SpO2:89%,2025-12-13 06:05:58.203674,Medium
+Trauma_0101,Trauma,"🚑 AMBULANCE REPORT
+Patient: 28yo female
+Weight: 113 kg
+
+CHIEF COMPLAINT: dizziness with multiple injuries from motorcycle accident and sweating
+
+VITAL SIGNS:
+• HR: 106 bpm
+• BP: 113/106 mmHg
+• SpO2: 92%
+• Temp: 38.3°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 14 minutes",28yo female,HR:106 BP:113/106 SpO2:92%,2025-12-13 00:05:58.204920,High
+STEMI_0064,STEMI,"🚑 AMBULANCE REPORT
+Patient: 26yo female
+Weight: 61 kg
+
+CHIEF COMPLAINT: fatigue with discomfort
+
+VITAL SIGNS:
+• HR: 111 bpm
+• BP: 174/79 mmHg
+• SpO2: 100%
+• Temp: 39.2°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 19 minutes",26yo female,HR:111 BP:174/79 SpO2:100%,2025-12-13 10:05:58.197065,High
+Stroke_0026,Stroke,"🚑 AMBULANCE REPORT
+Patient: 34yo female
+Weight: 103 kg
+
+CHIEF COMPLAINT: sudden severe headache with vision changes with difficulty speaking and slurred words and facial drooping with speech difficulty
+
+VITAL SIGNS:
+• HR: 110 bpm
+• BP: 178/89 mmHg
+• SpO2: 96%
+• Temp: 39.0°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 16 minutes",34yo female,HR:110 BP:178/89 SpO2:96%,2025-12-13 09:05:58.188246,Low
+General_0727,General,"🚑 AMBULANCE REPORT
+Patient: 41yo male
+Weight: 70 kg
+
+CHIEF COMPLAINT: nausea with allergic reaction with mild swelling
+
+VITAL SIGNS:
+• HR: 118 bpm
+• BP: 95/110 mmHg
+• SpO2: 89%
+• Temp: 36.2°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 17 minutes",41yo male,HR:118 BP:95/110 SpO2:89%,2025-12-13 05:05:58.186582,Low
+STEMI_0260,STEMI,"🚑 AMBULANCE REPORT
+Patient: 38yo female
+Weight: 60 kg
+
+CHIEF COMPLAINT: elephant sitting on chest sensation with chest discomfort
+
+VITAL SIGNS:
+• HR: 102 bpm
+• BP: 145/77 mmHg
+• SpO2: 88%
+• Temp: 35.5°C
+
+ASSESSMENT: Cardiac monitoring shows rhythm changes
+
+ETA: 16 minutes",38yo female,HR:102 BP:145/77 SpO2:88%,2025-12-13 20:05:58.201272,Low
+Trauma_0144,Trauma,"🚑 AMBULANCE REPORT
+Patient: 60yo male
+Weight: 103 kg
+
+CHIEF COMPLAINT: anxiety with chest and abdominal pain following impact and chest discomfort
+
+VITAL SIGNS:
+• HR: 105 bpm
+• BP: 123/108 mmHg
+• SpO2: 98%
+• Temp: 37.2°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 18 minutes",60yo male,HR:105 BP:123/108 SpO2:98%,2025-12-13 04:05:58.205559,High
+STEMI_0191,STEMI,"🚑 AMBULANCE REPORT
+Patient: 25yo female
+Weight: 62 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 120 bpm
+• BP: 139/97 mmHg
+• SpO2: 88%
+• Temp: 36.1°C
+
+ASSESSMENT: Patient clutching chest during transport
+
+ETA: 20 minutes",25yo female,HR:120 BP:139/97 SpO2:88%,2025-12-12 22:05:58.199817,Low
+General_0557,General,"🚑 AMBULANCE REPORT
+Patient: 78yo female
+Weight: 72 kg
+
+CHIEF COMPLAINT: generalized body aches and malaise with weakness
+
+VITAL SIGNS:
+• HR: 94 bpm
+• BP: 157/79 mmHg
+• SpO2: 92%
+• Temp: 39.2°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 7 minutes",78yo female,HR:94 BP:157/79 SpO2:92%,2025-12-13 18:05:58.182944,Low
+Trauma_0260,Trauma,"🚑 AMBULANCE REPORT
+Patient: 65yo male
+Weight: 50 kg
+
+CHIEF COMPLAINT: weakness with neck pain following rear-end collision and head injury with brief loss of consciousness
+
+VITAL SIGNS:
+• HR: 123 bpm
+• BP: 130/103 mmHg
+• SpO2: 100%
+• Temp: 38.5°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 8 minutes",65yo male,HR:123 BP:130/103 SpO2:100%,2025-12-13 00:05:58.207330,Low
+General_0699,General,"🚑 AMBULANCE REPORT
+Patient: 64yo female
+Weight: 120 kg
+
+CHIEF COMPLAINT: anxiety with generalized body aches and malaise
+
+VITAL SIGNS:
+• HR: 95 bpm
+• BP: 122/109 mmHg
+• SpO2: 88%
+• Temp: 38.6°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 12 minutes",64yo female,HR:95 BP:122/109 SpO2:88%,2025-12-13 01:05:58.186117,Medium
+General_0310,General,"🚑 AMBULANCE REPORT
+Patient: 76yo male
+Weight: 72 kg
+
+CHIEF COMPLAINT: anxiety with flu-like symptoms with chills
+
+VITAL SIGNS:
+• HR: 104 bpm
+• BP: 95/106 mmHg
+• SpO2: 91%
+• Temp: 37.6°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 19 minutes",76yo male,HR:104 BP:95/106 SpO2:91%,2025-12-12 16:05:58.178088,Low
+Stroke_0258,Stroke,"🚑 AMBULANCE REPORT
+Patient: 66yo male
+Weight: 86 kg
+
+CHIEF COMPLAINT: sudden onset left-sided weakness with discomfort
+
+VITAL SIGNS:
+• HR: 78 bpm
+• BP: 184/103 mmHg
+• SpO2: 90%
+• Temp: 36.2°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 19 minutes",66yo male,HR:78 BP:184/103 SpO2:90%,2025-12-14 15:05:58.192143,High
+General_0640,General,"🚑 AMBULANCE REPORT
+Patient: 64yo female
+Weight: 75 kg
+
+CHIEF COMPLAINT: chronic back discomfort exacerbation with anxiety and dizziness
+
+VITAL SIGNS:
+• HR: 110 bpm
+• BP: 143/75 mmHg
+• SpO2: 93%
+• Temp: 35.8°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 6 minutes",64yo female,HR:110 BP:143/75 SpO2:93%,2025-12-12 18:05:58.184357,Low
+General_0400,General,"🚑 AMBULANCE REPORT
+Patient: 47yo male
+Weight: 90 kg
+
+CHIEF COMPLAINT: chest discomfort with flu-like symptoms with chills
+
+VITAL SIGNS:
+• HR: 101 bpm
+• BP: 121/98 mmHg
+• SpO2: 88%
+• Temp: 37.1°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 5 minutes",47yo male,HR:101 BP:121/98 SpO2:88%,2025-12-14 12:05:58.179816,Low
+STEMI_0040,STEMI,"🚑 AMBULANCE REPORT
+Patient: 74yo female
+Weight: 59 kg
+
+CHIEF COMPLAINT: dizziness with severe substernal pressure lasting 20+ minutes and fatigue
+
+VITAL SIGNS:
+• HR: 114 bpm
+• BP: 125/110 mmHg
+• SpO2: 98%
+• Temp: 37.4°C
+
+ASSESSMENT: Patient appears uncomfortable and diaphoretic
+
+ETA: 7 minutes",74yo female,HR:114 BP:125/110 SpO2:98%,2025-12-13 08:05:58.196687,Low
+General_0391,General,"🚑 AMBULANCE REPORT
+Patient: 45yo male
+Weight: 101 kg
+
+CHIEF COMPLAINT: flu-like symptoms with chills
+
+VITAL SIGNS:
+• HR: 80 bpm
+• BP: 118/99 mmHg
+• SpO2: 98%
+• Temp: 35.6°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 15 minutes",45yo male,HR:80 BP:118/99 SpO2:98%,2025-12-13 16:05:58.179622,Medium
+Trauma_0063,Trauma,"🚑 AMBULANCE REPORT
+Patient: 44yo female
+Weight: 106 kg
+
+CHIEF COMPLAINT: chest and abdominal pain following impact
+
+VITAL SIGNS:
+• HR: 138 bpm
+• BP: 121/90 mmHg
+• SpO2: 98%
+• Temp: 35.8°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 8 minutes",44yo female,HR:138 BP:121/90 SpO2:98%,2025-12-12 05:05:58.204352,Medium
+Stroke_0144,Stroke,"🚑 AMBULANCE REPORT
+Patient: 81yo female
+Weight: 103 kg
+
+CHIEF COMPLAINT: sudden severe headache with vision changes with facial drooping with speech difficulty and dizziness
+
+VITAL SIGNS:
+• HR: 81 bpm
+• BP: 172/93 mmHg
+• SpO2: 96%
+• Temp: 39.4°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 17 minutes",81yo female,HR:81 BP:172/93 SpO2:96%,2025-12-12 06:05:58.190274,High
+General_0086,General,"🚑 AMBULANCE REPORT
+Patient: 34yo male
+Weight: 60 kg
+
+CHIEF COMPLAINT: dizziness with anxiety and allergic reaction with mild swelling
+
+VITAL SIGNS:
+• HR: 120 bpm
+• BP: 122/68 mmHg
+• SpO2: 90%
+• Temp: 38.4°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 14 minutes",34yo male,HR:120 BP:122/68 SpO2:90%,2025-12-13 06:05:58.173930,Medium
+STEMI_0112,STEMI,"🚑 AMBULANCE REPORT
+Patient: 82yo female
+Weight: 116 kg
+
+CHIEF COMPLAINT: discomfort with chest pain unrelieved by rest and sweating
+
+VITAL SIGNS:
+• HR: 139 bpm
+• BP: 168/100 mmHg
+• SpO2: 90%
+• Temp: 38.6°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 8 minutes",82yo female,HR:139 BP:168/100 SpO2:90%,2025-12-11 23:05:58.197848,Low
+General_0387,General,"🚑 AMBULANCE REPORT
+Patient: 77yo female
+Weight: 92 kg
+
+CHIEF COMPLAINT: chest discomfort with generalized body aches and malaise and fatigue
+
+VITAL SIGNS:
+• HR: 80 bpm
+• BP: 90/68 mmHg
+• SpO2: 89%
+• Temp: 38.9°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 12 minutes",77yo female,HR:80 BP:90/68 SpO2:89%,2025-12-13 21:05:58.179553,High
+General_0479,General,"🚑 AMBULANCE REPORT
+Patient: 56yo male
+Weight: 81 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 102 bpm
+• BP: 107/71 mmHg
+• SpO2: 89%
+• Temp: 36.6°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 14 minutes",56yo male,HR:102 BP:107/71 SpO2:89%,2025-12-13 20:05:58.181273,High
+Stroke_0382,Stroke,"🚑 AMBULANCE REPORT
+Patient: 41yo male
+Weight: 52 kg
+
+CHIEF COMPLAINT: shortness of breath with chest discomfort and right arm weakness and confusion
+
+VITAL SIGNS:
+• HR: 63 bpm
+• BP: 183/68 mmHg
+• SpO2: 95%
+• Temp: 36.9°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 12 minutes",41yo male,HR:63 BP:183/68 SpO2:95%,2025-12-13 03:05:58.194118,High
+Trauma_0183,Trauma,"🚑 AMBULANCE REPORT
+Patient: 66yo male
+Weight: 61 kg
+
+CHIEF COMPLAINT: sweating
+
+VITAL SIGNS:
+• HR: 70 bpm
+• BP: 125/82 mmHg
+• SpO2: 92%
+• Temp: 38.2°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 17 minutes",66yo male,HR:70 BP:125/82 SpO2:92%,2025-12-13 19:05:58.206155,Low
+General_0632,General,"🚑 AMBULANCE REPORT
+Patient: 43yo male
+Weight: 64 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 109 bpm
+• BP: 155/73 mmHg
+• SpO2: 89%
+• Temp: 36.8°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 9 minutes",43yo male,HR:109 BP:155/73 SpO2:89%,2025-12-11 19:05:58.184213,High
+General_0035,General,"🚑 AMBULANCE REPORT
+Patient: 47yo male
+Weight: 93 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 93 bpm
+• BP: 98/85 mmHg
+• SpO2: 96%
+• Temp: 39.1°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 19 minutes",47yo male,HR:93 BP:98/85 SpO2:96%,2025-12-12 04:05:58.172890,Medium
+General_0514,General,"🚑 AMBULANCE REPORT
+Patient: 32yo female
+Weight: 111 kg
+
+CHIEF COMPLAINT: weakness
+
+VITAL SIGNS:
+• HR: 105 bpm
+• BP: 146/103 mmHg
+• SpO2: 89%
+• Temp: 36.6°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 6 minutes",32yo female,HR:105 BP:146/103 SpO2:89%,2025-12-12 06:05:58.182149,Low
+STEMI_0006,STEMI,"🚑 AMBULANCE REPORT
+Patient: 49yo male
+Weight: 113 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 112 bpm
+• BP: 152/75 mmHg
+• SpO2: 93%
+• Temp: 37.2°C
+
+ASSESSMENT: Patient appears uncomfortable and diaphoretic
+
+ETA: 20 minutes",49yo male,HR:112 BP:152/75 SpO2:93%,2025-12-13 14:05:58.196153,Medium
+Stroke_0045,Stroke,"🚑 AMBULANCE REPORT
+Patient: 83yo male
+Weight: 89 kg
+
+CHIEF COMPLAINT: fatigue with discomfort
+
+VITAL SIGNS:
+• HR: 96 bpm
+• BP: 175/74 mmHg
+• SpO2: 98%
+• Temp: 36.3°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 13 minutes",83yo male,HR:96 BP:175/74 SpO2:98%,2025-12-14 01:05:58.188574,High
+STEMI_0221,STEMI,"🚑 AMBULANCE REPORT
+Patient: 44yo male
+Weight: 64 kg
+
+CHIEF COMPLAINT: sweating
+
+VITAL SIGNS:
+• HR: 140 bpm
+• BP: 166/81 mmHg
+• SpO2: 95%
+• Temp: 37.7°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 17 minutes",44yo male,HR:140 BP:166/81 SpO2:95%,2025-12-12 18:05:58.200291,High
+General_0283,General,"🚑 AMBULANCE REPORT
+Patient: 45yo female
+Weight: 81 kg
+
+CHIEF COMPLAINT: gradual onset abdominal aching with nausea with anxiety and chest discomfort
+
+VITAL SIGNS:
+• HR: 92 bpm
+• BP: 91/88 mmHg
+• SpO2: 93%
+• Temp: 36.0°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 9 minutes",45yo female,HR:92 BP:91/88 SpO2:93%,2025-12-12 18:05:58.177607,High
+General_0417,General,"🚑 AMBULANCE REPORT
+Patient: 60yo female
+Weight: 114 kg
+
+CHIEF COMPLAINT: fatigue with flu-like symptoms with chills
+
+VITAL SIGNS:
+• HR: 119 bpm
+• BP: 139/87 mmHg
+• SpO2: 97%
+• Temp: 38.5°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 17 minutes",60yo female,HR:119 BP:139/87 SpO2:97%,2025-12-13 16:05:58.180139,Medium
+Stroke_0377,Stroke,"🚑 AMBULANCE REPORT
+Patient: 61yo female
+Weight: 54 kg
+
+CHIEF COMPLAINT: sweating with shortness of breath
+
+VITAL SIGNS:
+• HR: 102 bpm
+• BP: 93/72 mmHg
+• SpO2: 97%
+• Temp: 37.3°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 5 minutes",61yo female,HR:102 BP:93/72 SpO2:97%,2025-12-13 16:05:58.194033,Medium
+Stroke_0136,Stroke,"🚑 AMBULANCE REPORT
+Patient: 58yo female
+Weight: 66 kg
+
+CHIEF COMPLAINT: discomfort with facial drooping with speech difficulty and fatigue
+
+VITAL SIGNS:
+• HR: 73 bpm
+• BP: 180/101 mmHg
+• SpO2: 98%
+• Temp: 38.2°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 20 minutes",58yo female,HR:73 BP:180/101 SpO2:98%,2025-12-12 01:05:58.190135,Medium
+Stroke_0375,Stroke,"🚑 AMBULANCE REPORT
+Patient: 42yo male
+Weight: 92 kg
+
+CHIEF COMPLAINT: right arm weakness and confusion with discomfort
+
+VITAL SIGNS:
+• HR: 82 bpm
+• BP: 206/84 mmHg
+• SpO2: 97%
+• Temp: 35.8°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 12 minutes",42yo male,HR:82 BP:206/84 SpO2:97%,2025-12-14 09:05:58.194002,High
+STEMI_0271,STEMI,"🚑 AMBULANCE REPORT
+Patient: 62yo male
+Weight: 98 kg
+
+CHIEF COMPLAINT: shortness of breath with chest discomfort and sweating
+
+VITAL SIGNS:
+• HR: 128 bpm
+• BP: 128/72 mmHg
+• SpO2: 95%
+• Temp: 37.9°C
+
+ASSESSMENT: Patient appears uncomfortable and diaphoretic
+
+ETA: 11 minutes",62yo male,HR:128 BP:128/72 SpO2:95%,2025-12-12 19:05:58.201460,Low
+General_0295,General,"🚑 AMBULANCE REPORT
+Patient: 68yo male
+Weight: 99 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 90 bpm
+• BP: 168/96 mmHg
+• SpO2: 89%
+• Temp: 39.3°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 8 minutes",68yo male,HR:90 BP:168/96 SpO2:89%,2025-12-12 16:05:58.177820,High
+STEMI_0249,STEMI,"🚑 AMBULANCE REPORT
+Patient: 46yo female
+Weight: 63 kg
+
+CHIEF COMPLAINT: chest pain unrelieved by rest
+
+VITAL SIGNS:
+• HR: 95 bpm
+• BP: 98/62 mmHg
+• SpO2: 99%
+• Temp: 39.3°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 18 minutes",46yo female,HR:95 BP:98/62 SpO2:99%,2025-12-13 12:05:58.201024,Low
+Trauma_0022,Trauma,"🚑 AMBULANCE REPORT
+Patient: 46yo female
+Weight: 75 kg
+
+CHIEF COMPLAINT: sweating
+
+VITAL SIGNS:
+• HR: 127 bpm
+• BP: 163/86 mmHg
+• SpO2: 99%
+• Temp: 36.4°C
+
+ASSESSMENT: C-spine precautions maintained during transport
+
+ETA: 7 minutes",46yo female,HR:127 BP:163/86 SpO2:99%,2025-12-12 14:05:58.203733,Low
+STEMI_0365,STEMI,"🚑 AMBULANCE REPORT
+Patient: 81yo female
+Weight: 86 kg
+
+CHIEF COMPLAINT: upper abdominal discomfort with nausea with shortness of breath and nausea
+
+VITAL SIGNS:
+• HR: 106 bpm
+• BP: 115/79 mmHg
+• SpO2: 94%
+• Temp: 39.3°C
+
+ASSESSMENT: Patient clutching chest during transport
+
+ETA: 16 minutes",81yo female,HR:106 BP:115/79 SpO2:94%,2025-12-13 04:05:58.202840,High
+General_0269,General,"🚑 AMBULANCE REPORT
+Patient: 62yo female
+Weight: 92 kg
+
+CHIEF COMPLAINT: fatigue with chest discomfort and shortness of breath
+
+VITAL SIGNS:
+• HR: 111 bpm
+• BP: 92/66 mmHg
+• SpO2: 96%
+• Temp: 37.9°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 13 minutes",62yo female,HR:111 BP:92/66 SpO2:96%,2025-12-12 17:05:58.177355,Low
+Trauma_0014,Trauma,"🚑 AMBULANCE REPORT
+Patient: 25yo female
+Weight: 95 kg
+
+CHIEF COMPLAINT: shortness of breath with sweating and chest discomfort
+
+VITAL SIGNS:
+• HR: 115 bpm
+• BP: 99/98 mmHg
+• SpO2: 98%
+• Temp: 35.7°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 20 minutes",25yo female,HR:115 BP:99/98 SpO2:98%,2025-12-13 11:05:58.203613,Low
+STEMI_0175,STEMI,"🚑 AMBULANCE REPORT
+Patient: 61yo female
+Weight: 116 kg
+
+CHIEF COMPLAINT: elephant sitting on chest sensation with weakness
+
+VITAL SIGNS:
+• HR: 114 bpm
+• BP: 151/93 mmHg
+• SpO2: 94%
+• Temp: 37.4°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 14 minutes",61yo female,HR:114 BP:151/93 SpO2:94%,2025-12-13 23:05:58.199566,Medium
+Trauma_0021,Trauma,"🚑 AMBULANCE REPORT
+Patient: 73yo male
+Weight: 119 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 134 bpm
+• BP: 119/94 mmHg
+• SpO2: 98%
+• Temp: 39.3°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 14 minutes",73yo male,HR:134 BP:119/94 SpO2:98%,2025-12-13 22:05:58.203719,High
+Trauma_0265,Trauma,"🚑 AMBULANCE REPORT
+Patient: 36yo male
+Weight: 52 kg
+
+CHIEF COMPLAINT: weakness
+
+VITAL SIGNS:
+• HR: 111 bpm
+• BP: 140/84 mmHg
+• SpO2: 98%
+• Temp: 38.9°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 15 minutes",36yo male,HR:111 BP:140/84 SpO2:98%,2025-12-12 21:05:58.207405,Low
+STEMI_0176,STEMI,"🚑 AMBULANCE REPORT
+Patient: 48yo male
+Weight: 91 kg
+
+CHIEF COMPLAINT: nausea
+
+VITAL SIGNS:
+• HR: 74 bpm
+• BP: 124/66 mmHg
+• SpO2: 90%
+• Temp: 35.7°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 13 minutes",48yo male,HR:74 BP:124/66 SpO2:90%,2025-12-12 19:05:58.199582,Low
+Trauma_0069,Trauma,"🚑 AMBULANCE REPORT
+Patient: 83yo male
+Weight: 111 kg
+
+CHIEF COMPLAINT: multiple injuries from workplace injury
+
+VITAL SIGNS:
+• HR: 102 bpm
+• BP: 132/75 mmHg
+• SpO2: 90%
+• Temp: 37.4°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 15 minutes",83yo male,HR:102 BP:132/75 SpO2:90%,2025-12-13 13:05:58.204441,High
+Stroke_0076,Stroke,"🚑 AMBULANCE REPORT
+Patient: 48yo female
+Weight: 59 kg
+
+CHIEF COMPLAINT: sudden onset left-sided weakness
+
+VITAL SIGNS:
+• HR: 118 bpm
+• BP: 184/82 mmHg
+• SpO2: 99%
+• Temp: 37.5°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 6 minutes",48yo female,HR:118 BP:184/82 SpO2:99%,2025-12-12 10:05:58.189103,High
+General_0432,General,"🚑 AMBULANCE REPORT
+Patient: 25yo male
+Weight: 92 kg
+
+CHIEF COMPLAINT: nausea
+
+VITAL SIGNS:
+• HR: 73 bpm
+• BP: 158/65 mmHg
+• SpO2: 89%
+• Temp: 38.2°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 13 minutes",25yo male,HR:73 BP:158/65 SpO2:89%,2025-12-11 17:05:58.180412,High
+Stroke_0208,Stroke,"🚑 AMBULANCE REPORT
+Patient: 56yo female
+Weight: 58 kg
+
+CHIEF COMPLAINT: shortness of breath with dizziness
+
+VITAL SIGNS:
+• HR: 116 bpm
+• BP: 148/73 mmHg
+• SpO2: 88%
+• Temp: 35.6°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 6 minutes",56yo female,HR:116 BP:148/73 SpO2:88%,2025-12-12 04:05:58.191344,High
+STEMI_0284,STEMI,"🚑 AMBULANCE REPORT
+Patient: 72yo male
+Weight: 60 kg
+
+CHIEF COMPLAINT: elephant sitting on chest sensation
+
+VITAL SIGNS:
+• HR: 123 bpm
+• BP: 161/94 mmHg
+• SpO2: 100%
+• Temp: 37.4°C
+
+ASSESSMENT: Patient appears uncomfortable and diaphoretic
+
+ETA: 14 minutes",72yo male,HR:123 BP:161/94 SpO2:100%,2025-12-13 00:05:58.201658,Low
+General_0754,General,"🚑 AMBULANCE REPORT
+Patient: 71yo female
+Weight: 117 kg
+
+CHIEF COMPLAINT: anxiety
+
+VITAL SIGNS:
+• HR: 78 bpm
+• BP: 157/88 mmHg
+• SpO2: 88%
+• Temp: 37.6°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 19 minutes",71yo female,HR:78 BP:157/88 SpO2:88%,2025-12-13 16:05:58.187019,High
+General_0697,General,"🚑 AMBULANCE REPORT
+Patient: 38yo male
+Weight: 53 kg
+
+CHIEF COMPLAINT: sweating with generalized body aches and malaise
+
+VITAL SIGNS:
+• HR: 112 bpm
+• BP: 164/74 mmHg
+• SpO2: 90%
+• Temp: 36.2°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 6 minutes",38yo male,HR:112 BP:164/74 SpO2:90%,2025-12-12 09:05:58.186081,Low
+Trauma_0074,Trauma,"🚑 AMBULANCE REPORT
+Patient: 64yo female
+Weight: 84 kg
+
+CHIEF COMPLAINT: dizziness with extremity deformity and marked pain
+
+VITAL SIGNS:
+• HR: 143 bpm
+• BP: 155/67 mmHg
+• SpO2: 96%
+• Temp: 37.3°C
+
+ASSESSMENT: C-spine precautions maintained during transport
+
+ETA: 6 minutes",64yo female,HR:143 BP:155/67 SpO2:96%,2025-12-12 01:05:58.204514,Low
+STEMI_0204,STEMI,"🚑 AMBULANCE REPORT
+Patient: 28yo male
+Weight: 59 kg
+
+CHIEF COMPLAINT: dizziness with chest pain with jaw and shoulder discomfort and anxiety
+
+VITAL SIGNS:
+• HR: 115 bpm
+• BP: 120/92 mmHg
+• SpO2: 94%
+• Temp: 38.8°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 18 minutes",28yo male,HR:115 BP:120/92 SpO2:94%,2025-12-14 08:05:58.200022,Low
+General_0160,General,"🚑 AMBULANCE REPORT
+Patient: 85yo female
+Weight: 89 kg
+
+CHIEF COMPLAINT: dizziness with anxiety attack with palpitations
+
+VITAL SIGNS:
+• HR: 64 bpm
+• BP: 95/74 mmHg
+• SpO2: 97%
+• Temp: 38.9°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 5 minutes",85yo female,HR:64 BP:95/74 SpO2:97%,2025-12-14 12:05:58.175388,High
+General_0584,General,"🚑 AMBULANCE REPORT
+Patient: 56yo male
+Weight: 81 kg
+
+CHIEF COMPLAINT: anxiety attack with palpitations with flu-like symptoms with chills and chest discomfort
+
+VITAL SIGNS:
+• HR: 70 bpm
+• BP: 155/89 mmHg
+• SpO2: 100%
+• Temp: 39.0°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 11 minutes",56yo male,HR:70 BP:155/89 SpO2:100%,2025-12-11 19:05:58.183394,High
+Trauma_0004,Trauma,"🚑 AMBULANCE REPORT
+Patient: 44yo female
+Weight: 116 kg
+
+CHIEF COMPLAINT: sweating with nausea and dizziness
+
+VITAL SIGNS:
+• HR: 141 bpm
+• BP: 109/93 mmHg
+• SpO2: 91%
+• Temp: 36.4°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 8 minutes",44yo female,HR:141 BP:109/93 SpO2:91%,2025-12-12 00:05:58.203448,High
+General_0581,General,"🚑 AMBULANCE REPORT
+Patient: 80yo male
+Weight: 67 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation
+
+VITAL SIGNS:
+• HR: 105 bpm
+• BP: 158/64 mmHg
+• SpO2: 88%
+• Temp: 37.6°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 8 minutes",80yo male,HR:105 BP:158/64 SpO2:88%,2025-12-12 02:05:58.183343,High
+Stroke_0106,Stroke,"🚑 AMBULANCE REPORT
+Patient: 27yo female
+Weight: 66 kg
+
+CHIEF COMPLAINT: dizziness with chest discomfort
+
+VITAL SIGNS:
+• HR: 72 bpm
+• BP: 184/108 mmHg
+• SpO2: 95%
+• Temp: 38.8°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 16 minutes",27yo female,HR:72 BP:184/108 SpO2:95%,2025-12-12 00:05:58.189617,High
+Stroke_0483,Stroke,"🚑 AMBULANCE REPORT
+Patient: 74yo male
+Weight: 52 kg
+
+CHIEF COMPLAINT: chest discomfort with dizziness
+
+VITAL SIGNS:
+• HR: 118 bpm
+• BP: 109/73 mmHg
+• SpO2: 99%
+• Temp: 37.9°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 10 minutes",74yo male,HR:118 BP:109/73 SpO2:99%,2025-12-13 00:05:58.195767,Medium
+General_0305,General,"🚑 AMBULANCE REPORT
+Patient: 29yo male
+Weight: 55 kg
+
+CHIEF COMPLAINT: gradual onset abdominal discomfort with nausea
+
+VITAL SIGNS:
+• HR: 67 bpm
+• BP: 170/103 mmHg
+• SpO2: 88%
+• Temp: 39.3°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 18 minutes",29yo male,HR:67 BP:170/103 SpO2:88%,2025-12-12 14:05:58.177999,High
+Stroke_0024,Stroke,"🚑 AMBULANCE REPORT
+Patient: 71yo female
+Weight: 97 kg
+
+CHIEF COMPLAINT: difficulty speaking and slurred words with right arm weakness and confusion and sweating
+
+VITAL SIGNS:
+• HR: 74 bpm
+• BP: 133/103 mmHg
+• SpO2: 89%
+• Temp: 38.1°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 9 minutes",71yo female,HR:74 BP:133/103 SpO2:89%,2025-12-13 12:05:58.188210,Low
+General_0562,General,"🚑 AMBULANCE REPORT
+Patient: 60yo female
+Weight: 56 kg
+
+CHIEF COMPLAINT: allergic reaction with minor swelling
+
+VITAL SIGNS:
+• HR: 75 bpm
+• BP: 163/61 mmHg
+• SpO2: 98%
+• Temp: 35.7°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 12 minutes",60yo female,HR:75 BP:163/61 SpO2:98%,2025-12-12 18:05:58.183030,Medium
+General_0573,General,"🚑 AMBULANCE REPORT
+Patient: 84yo male
+Weight: 66 kg
+
+CHIEF COMPLAINT: anxiety
+
+VITAL SIGNS:
+• HR: 66 bpm
+• BP: 156/94 mmHg
+• SpO2: 94%
+• Temp: 38.1°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 12 minutes",84yo male,HR:66 BP:156/94 SpO2:94%,2025-12-14 10:05:58.183214,Low
+Stroke_0469,Stroke,"🚑 AMBULANCE REPORT
+Patient: 84yo male
+Weight: 66 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 112 bpm
+• BP: 216/87 mmHg
+• SpO2: 98%
+• Temp: 38.1°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 16 minutes",84yo male,HR:112 BP:216/87 SpO2:98%,2025-12-11 16:05:58.195542,Medium
+General_0263,General,"🚑 AMBULANCE REPORT
+Patient: 72yo male
+Weight: 54 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 96 bpm
+• BP: 166/80 mmHg
+• SpO2: 89%
+• Temp: 39.1°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 13 minutes",72yo male,HR:96 BP:166/80 SpO2:89%,2025-12-14 09:05:58.177246,High
+Stroke_0324,Stroke,"🚑 AMBULANCE REPORT
+Patient: 55yo male
+Weight: 56 kg
+
+CHIEF COMPLAINT: sudden onset left-sided weakness with nausea and weakness
+
+VITAL SIGNS:
+• HR: 79 bpm
+• BP: 154/100 mmHg
+• SpO2: 89%
+• Temp: 37.8°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 17 minutes",55yo male,HR:79 BP:154/100 SpO2:89%,2025-12-11 17:05:58.193197,High
+General_0360,General,"🚑 AMBULANCE REPORT
+Patient: 69yo male
+Weight: 100 kg
+
+CHIEF COMPLAINT: nausea with dizziness
+
+VITAL SIGNS:
+• HR: 116 bpm
+• BP: 161/74 mmHg
+• SpO2: 97%
+• Temp: 38.7°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 14 minutes",69yo male,HR:116 BP:161/74 SpO2:97%,2025-12-14 03:05:58.179068,Low
+Stroke_0339,Stroke,"🚑 AMBULANCE REPORT
+Patient: 48yo male
+Weight: 71 kg
+
+CHIEF COMPLAINT: right arm weakness and confusion
+
+VITAL SIGNS:
+• HR: 62 bpm
+• BP: 139/84 mmHg
+• SpO2: 92%
+• Temp: 39.3°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 6 minutes",48yo male,HR:62 BP:139/84 SpO2:92%,2025-12-12 12:05:58.193435,High
+General_0235,General,"🚑 AMBULANCE REPORT
+Patient: 73yo male
+Weight: 106 kg
+
+CHIEF COMPLAINT: gradual onset abdominal discomfort with nausea with anxiety and persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 88 bpm
+• BP: 122/67 mmHg
+• SpO2: 100%
+• Temp: 37.5°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 12 minutes",73yo male,HR:88 BP:122/67 SpO2:100%,2025-12-13 06:05:58.176736,Medium
+General_0053,General,"🚑 AMBULANCE REPORT
+Patient: 46yo female
+Weight: 95 kg
+
+CHIEF COMPLAINT: anxiety with fatigue and shortness of breath
+
+VITAL SIGNS:
+• HR: 106 bpm
+• BP: 95/63 mmHg
+• SpO2: 90%
+• Temp: 38.9°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 14 minutes",46yo female,HR:106 BP:95/63 SpO2:90%,2025-12-12 11:05:58.173259,High
+Trauma_0147,Trauma,"🚑 AMBULANCE REPORT
+Patient: 38yo female
+Weight: 107 kg
+
+CHIEF COMPLAINT: fatigue with chest and abdominal pain following impact
+
+VITAL SIGNS:
+• HR: 121 bpm
+• BP: 139/69 mmHg
+• SpO2: 100%
+• Temp: 36.9°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 15 minutes",38yo female,HR:121 BP:139/69 SpO2:100%,2025-12-13 03:05:58.205603,Low
+Trauma_0139,Trauma,"🚑 AMBULANCE REPORT
+Patient: 67yo male
+Weight: 89 kg
+
+CHIEF COMPLAINT: chest and abdominal discomfort following impact
+
+VITAL SIGNS:
+• HR: 138 bpm
+• BP: 177/103 mmHg
+• SpO2: 91%
+• Temp: 39.3°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 14 minutes",67yo male,HR:138 BP:177/103 SpO2:91%,2025-12-12 19:05:58.205485,Low
+Trauma_0232,Trauma,"🚑 AMBULANCE REPORT
+Patient: 60yo female
+Weight: 89 kg
+
+CHIEF COMPLAINT: head injury with brief loss of consciousness with dizziness and neck pain following rear-end collision
+
+VITAL SIGNS:
+• HR: 112 bpm
+• BP: 91/99 mmHg
+• SpO2: 96%
+• Temp: 36.2°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 13 minutes",60yo female,HR:112 BP:91/99 SpO2:96%,2025-12-14 09:05:58.206913,High
+General_0526,General,"🚑 AMBULANCE REPORT
+Patient: 68yo female
+Weight: 103 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation with chest discomfort and weakness
+
+VITAL SIGNS:
+• HR: 101 bpm
+• BP: 142/71 mmHg
+• SpO2: 99%
+• Temp: 36.2°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 20 minutes",68yo female,HR:101 BP:142/71 SpO2:99%,2025-12-14 10:05:58.182367,Low
+General_0193,General,"🚑 AMBULANCE REPORT
+Patient: 28yo female
+Weight: 119 kg
+
+CHIEF COMPLAINT: sweating with weakness
+
+VITAL SIGNS:
+• HR: 71 bpm
+• BP: 178/91 mmHg
+• SpO2: 91%
+• Temp: 38.8°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 13 minutes",28yo female,HR:71 BP:178/91 SpO2:91%,2025-12-13 10:05:58.175976,Medium
+General_0731,General,"🚑 AMBULANCE REPORT
+Patient: 44yo female
+Weight: 96 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation
+
+VITAL SIGNS:
+• HR: 69 bpm
+• BP: 107/107 mmHg
+• SpO2: 94%
+• Temp: 37.6°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 15 minutes",44yo female,HR:69 BP:107/107 SpO2:94%,2025-12-13 05:05:58.186646,High
+Stroke_0254,Stroke,"🚑 AMBULANCE REPORT
+Patient: 46yo female
+Weight: 78 kg
+
+CHIEF COMPLAINT: mild confusion with headache with nausea and shortness of breath
+
+VITAL SIGNS:
+• HR: 114 bpm
+• BP: 161/71 mmHg
+• SpO2: 93%
+• Temp: 38.7°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 5 minutes",46yo female,HR:114 BP:161/71 SpO2:93%,2025-12-13 23:05:58.192080,Medium
+General_0575,General,"🚑 AMBULANCE REPORT
+Patient: 78yo female
+Weight: 87 kg
+
+CHIEF COMPLAINT: fatigue
+
+VITAL SIGNS:
+• HR: 110 bpm
+• BP: 146/90 mmHg
+• SpO2: 94%
+• Temp: 37.6°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 6 minutes",78yo female,HR:110 BP:146/90 SpO2:94%,2025-12-14 14:05:58.183246,Medium
+STEMI_0140,STEMI,"🚑 AMBULANCE REPORT
+Patient: 59yo male
+Weight: 87 kg
+
+CHIEF COMPLAINT: back soreness between shoulder blades
+
+VITAL SIGNS:
+• HR: 96 bpm
+• BP: 167/83 mmHg
+• SpO2: 96%
+• Temp: 39.5°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 18 minutes",59yo male,HR:96 BP:167/83 SpO2:96%,2025-12-12 21:05:58.198718,Low
+STEMI_0361,STEMI,"🚑 AMBULANCE REPORT
+Patient: 45yo male
+Weight: 104 kg
+
+CHIEF COMPLAINT: anxiety with shortness of breath
+
+VITAL SIGNS:
+• HR: 111 bpm
+• BP: 123/96 mmHg
+• SpO2: 93%
+• Temp: 39.3°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 20 minutes",45yo male,HR:111 BP:123/96 SpO2:93%,2025-12-12 16:05:58.202783,Low
+STEMI_0098,STEMI,"🚑 AMBULANCE REPORT
+Patient: 82yo male
+Weight: 100 kg
+
+CHIEF COMPLAINT: sweating
+
+VITAL SIGNS:
+• HR: 108 bpm
+• BP: 109/101 mmHg
+• SpO2: 99%
+• Temp: 36.4°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 7 minutes",82yo male,HR:108 BP:109/101 SpO2:99%,2025-12-13 13:05:58.197597,High
+Trauma_0192,Trauma,"🚑 AMBULANCE REPORT
+Patient: 52yo male
+Weight: 86 kg
+
+CHIEF COMPLAINT: shortness of breath with neck pain following rear-end collision
+
+VITAL SIGNS:
+• HR: 79 bpm
+• BP: 172/98 mmHg
+• SpO2: 90%
+• Temp: 36.9°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 18 minutes",52yo male,HR:79 BP:172/98 SpO2:90%,2025-12-12 16:05:58.206309,High
+STEMI_0120,STEMI,"🚑 AMBULANCE REPORT
+Patient: 66yo female
+Weight: 80 kg
+
+CHIEF COMPLAINT: dizziness with weakness and discomfort
+
+VITAL SIGNS:
+• HR: 123 bpm
+• BP: 159/93 mmHg
+• SpO2: 95%
+• Temp: 37.3°C
+
+ASSESSMENT: Cardiac monitoring shows rhythm changes
+
+ETA: 7 minutes",66yo female,HR:123 BP:159/93 SpO2:95%,2025-12-14 00:05:58.197998,Medium
+Trauma_0187,Trauma,"🚑 AMBULANCE REPORT
+Patient: 71yo female
+Weight: 85 kg
+
+CHIEF COMPLAINT: shortness of breath with sweating and fatigue
+
+VITAL SIGNS:
+• HR: 145 bpm
+• BP: 171/94 mmHg
+• SpO2: 88%
+• Temp: 37.1°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 9 minutes",71yo female,HR:145 BP:171/94 SpO2:88%,2025-12-11 23:05:58.206230,High
+General_0334,General,"🚑 AMBULANCE REPORT
+Patient: 66yo male
+Weight: 115 kg
+
+CHIEF COMPLAINT: flu-like symptoms with chills with anxiety attack with palpitations and dizziness
+
+VITAL SIGNS:
+• HR: 74 bpm
+• BP: 108/109 mmHg
+• SpO2: 97%
+• Temp: 38.4°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 12 minutes",66yo male,HR:74 BP:108/109 SpO2:97%,2025-12-11 20:05:58.178574,Low
+General_0388,General,"🚑 AMBULANCE REPORT
+Patient: 30yo female
+Weight: 88 kg
+
+CHIEF COMPLAINT: dizziness with generalized body aches and malaise
+
+VITAL SIGNS:
+• HR: 86 bpm
+• BP: 174/72 mmHg
+• SpO2: 88%
+• Temp: 38.8°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 9 minutes",30yo female,HR:86 BP:174/72 SpO2:88%,2025-12-13 04:05:58.179571,High
+General_0167,General,"🚑 AMBULANCE REPORT
+Patient: 81yo female
+Weight: 83 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 112 bpm
+• BP: 119/91 mmHg
+• SpO2: 90%
+• Temp: 35.6°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 17 minutes",81yo female,HR:112 BP:119/91 SpO2:90%,2025-12-11 17:05:58.175511,High
+Trauma_0220,Trauma,"🚑 AMBULANCE REPORT
+Patient: 48yo male
+Weight: 64 kg
+
+CHIEF COMPLAINT: head injury with brief loss of consciousness
+
+VITAL SIGNS:
+• HR: 61 bpm
+• BP: 126/98 mmHg
+• SpO2: 98%
+• Temp: 36.2°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 7 minutes",48yo male,HR:61 BP:126/98 SpO2:98%,2025-12-14 03:05:58.206729,High
+General_0715,General,"🚑 AMBULANCE REPORT
+Patient: 74yo male
+Weight: 78 kg
+
+CHIEF COMPLAINT: persistent cough with low-grade fever
+
+VITAL SIGNS:
+• HR: 63 bpm
+• BP: 139/79 mmHg
+• SpO2: 98%
+• Temp: 38.0°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 12 minutes",74yo male,HR:63 BP:139/79 SpO2:98%,2025-12-14 08:05:58.186382,High
+General_0623,General,"🚑 AMBULANCE REPORT
+Patient: 51yo female
+Weight: 103 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 88 bpm
+• BP: 142/86 mmHg
+• SpO2: 94%
+• Temp: 37.4°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 12 minutes",51yo female,HR:88 BP:142/86 SpO2:94%,2025-12-11 16:05:58.184032,Medium
+Trauma_0103,Trauma,"🚑 AMBULANCE REPORT
+Patient: 55yo female
+Weight: 108 kg
+
+CHIEF COMPLAINT: extremity deformity and severe pain with head injury with brief loss of consciousness
+
+VITAL SIGNS:
+• HR: 79 bpm
+• BP: 156/83 mmHg
+• SpO2: 95%
+• Temp: 35.7°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 18 minutes",55yo female,HR:79 BP:156/83 SpO2:95%,2025-12-13 00:05:58.204950,Medium
+General_0329,General,"🚑 AMBULANCE REPORT
+Patient: 58yo male
+Weight: 79 kg
+
+CHIEF COMPLAINT: migraine headache with light sensitivity with allergic reaction with mild swelling
+
+VITAL SIGNS:
+• HR: 111 bpm
+• BP: 147/101 mmHg
+• SpO2: 88%
+• Temp: 39.1°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 12 minutes",58yo male,HR:111 BP:147/101 SpO2:88%,2025-12-13 15:05:58.178486,High
+Stroke_0180,Stroke,"🚑 AMBULANCE REPORT
+Patient: 73yo female
+Weight: 111 kg
+
+CHIEF COMPLAINT: chest discomfort
+
+VITAL SIGNS:
+• HR: 83 bpm
+• BP: 206/62 mmHg
+• SpO2: 98%
+• Temp: 37.4°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 13 minutes",73yo female,HR:83 BP:206/62 SpO2:98%,2025-12-14 12:05:58.190893,Low
+Stroke_0457,Stroke,"🚑 AMBULANCE REPORT
+Patient: 71yo male
+Weight: 97 kg
+
+CHIEF COMPLAINT: shortness of breath with weakness and sudden loss of balance and coordination
+
+VITAL SIGNS:
+• HR: 101 bpm
+• BP: 161/94 mmHg
+• SpO2: 97%
+• Temp: 37.5°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 15 minutes",71yo male,HR:101 BP:161/94 SpO2:97%,2025-12-13 17:05:58.195354,High
+General_0317,General,"🚑 AMBULANCE REPORT
+Patient: 54yo male
+Weight: 81 kg
+
+CHIEF COMPLAINT: dizziness with nausea and migraine headache with light sensitivity
+
+VITAL SIGNS:
+• HR: 83 bpm
+• BP: 180/102 mmHg
+• SpO2: 91%
+• Temp: 36.5°C
+
+ASSESSMENT: Patient requests evaluation at hospital
+
+ETA: 16 minutes",54yo male,HR:83 BP:180/102 SpO2:91%,2025-12-12 04:05:58.178216,High
+Trauma_0194,Trauma,"🚑 AMBULANCE REPORT
+Patient: 59yo female
+Weight: 78 kg
+
+CHIEF COMPLAINT: sweating with chest and abdominal pain following impact
+
+VITAL SIGNS:
+• HR: 107 bpm
+• BP: 119/65 mmHg
+• SpO2: 93%
+• Temp: 38.0°C
+
+ASSESSMENT: Patient has visible injuries from impact
+
+ETA: 13 minutes",59yo female,HR:107 BP:119/65 SpO2:93%,2025-12-12 17:05:58.206339,High
+Stroke_0151,Stroke,"🚑 AMBULANCE REPORT
+Patient: 77yo female
+Weight: 92 kg
+
+CHIEF COMPLAINT: chest discomfort with sudden onset left-sided weakness and sudden severe headache with vision changes
+
+VITAL SIGNS:
+• HR: 83 bpm
+• BP: 173/69 mmHg
+• SpO2: 91%
+• Temp: 38.4°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 15 minutes",77yo female,HR:83 BP:173/69 SpO2:91%,2025-12-12 16:05:58.190396,Medium
+General_0187,General,"🚑 AMBULANCE REPORT
+Patient: 57yo female
+Weight: 73 kg
+
+CHIEF COMPLAINT: chronic back pain exacerbation with allergic reaction with mild swelling
+
+VITAL SIGNS:
+• HR: 88 bpm
+• BP: 91/79 mmHg
+• SpO2: 95%
+• Temp: 35.7°C
+
+ASSESSMENT: Patient appears stable but uncomfortable
+
+ETA: 19 minutes",57yo female,HR:88 BP:91/79 SpO2:95%,2025-12-13 07:05:58.175868,Medium
+Stroke_0265,Stroke,"🚑 AMBULANCE REPORT
+Patient: 42yo male
+Weight: 92 kg
+
+CHIEF COMPLAINT: nausea with sudden onset left-sided weakness and fatigue
+
+VITAL SIGNS:
+• HR: 65 bpm
+• BP: 214/109 mmHg
+• SpO2: 99%
+• Temp: 36.2°C
+
+ASSESSMENT: Speech appears slurred during assessment
+
+ETA: 11 minutes",42yo male,HR:65 BP:214/109 SpO2:99%,2025-12-14 06:05:58.192256,Low
+Trauma_0127,Trauma,"🚑 AMBULANCE REPORT
+Patient: 27yo male
+Weight: 90 kg
+
+CHIEF COMPLAINT: discomfort with anxiety
+
+VITAL SIGNS:
+• HR: 114 bpm
+• BP: 136/90 mmHg
+• SpO2: 100%
+• Temp: 37.9°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 11 minutes",27yo male,HR:114 BP:136/90 SpO2:100%,2025-12-13 15:05:58.205306,Low
+General_0545,General,"🚑 AMBULANCE REPORT
+Patient: 27yo female
+Weight: 55 kg
+
+CHIEF COMPLAINT: nausea with gradual onset abdominal pain with nausea and allergic reaction with mild swelling
+
+VITAL SIGNS:
+• HR: 85 bpm
+• BP: 129/98 mmHg
+• SpO2: 97%
+• Temp: 37.0°C
+
+ASSESSMENT: Vital signs within acceptable ranges
+
+ETA: 9 minutes",27yo female,HR:85 BP:129/98 SpO2:97%,2025-12-14 15:05:58.182730,High
+Stroke_0060,Stroke,"🚑 AMBULANCE REPORT
+Patient: 50yo female
+Weight: 86 kg
+
+CHIEF COMPLAINT: dizziness
+
+VITAL SIGNS:
+• HR: 82 bpm
+• BP: 174/102 mmHg
+• SpO2: 97%
+• Temp: 37.4°C
+
+ASSESSMENT: Patient alert and cooperative
+
+ETA: 19 minutes",50yo female,HR:82 BP:174/102 SpO2:97%,2025-12-13 16:05:58.188830,Medium
+STEMI_0220,STEMI,"🚑 AMBULANCE REPORT
+Patient: 27yo female
+Weight: 88 kg
+
+CHIEF COMPLAINT: chest pain unrelieved by rest with elephant sitting on chest sensation
+
+VITAL SIGNS:
+• HR: 110 bpm
+• BP: 178/66 mmHg
+• SpO2: 88%
+• Temp: 36.2°C
+
+ASSESSMENT: No acute distress noted at this time
+
+ETA: 14 minutes",27yo female,HR:110 BP:178/66 SpO2:88%,2025-12-14 14:05:58.200270,Medium
+Stroke_0462,Stroke,"🚑 AMBULANCE REPORT
+Patient: 42yo female
+Weight: 50 kg
+
+CHIEF COMPLAINT: chest discomfort with nausea
+
+VITAL SIGNS:
+• HR: 62 bpm
+• BP: 130/79 mmHg
+• SpO2: 96%
+• Temp: 38.7°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 15 minutes",42yo female,HR:62 BP:130/79 SpO2:96%,2025-12-12 05:05:58.195432,Low
+Stroke_0407,Stroke,"🚑 AMBULANCE REPORT
+Patient: 25yo female
+Weight: 82 kg
+
+CHIEF COMPLAINT: nausea with facial drooping with speech difficulty
+
+VITAL SIGNS:
+• HR: 76 bpm
+• BP: 150/67 mmHg
+• SpO2: 99%
+• Temp: 37.9°C
+
+ASSESSMENT: Neurological deficits noted on examination
+
+ETA: 5 minutes",25yo female,HR:76 BP:150/67 SpO2:99%,2025-12-13 09:05:58.194557,High
+Stroke_0108,Stroke,"🚑 AMBULANCE REPORT
+Patient: 35yo female
+Weight: 74 kg
+
+CHIEF COMPLAINT: weakness with difficulty speaking and slurred words
+
+VITAL SIGNS:
+• HR: 110 bpm
+• BP: 200/86 mmHg
+• SpO2: 94%
+• Temp: 37.4°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 11 minutes",35yo female,HR:110 BP:200/86 SpO2:94%,2025-12-13 06:05:58.189651,High
+STEMI_0253,STEMI,"🚑 AMBULANCE REPORT
+Patient: 71yo female
+Weight: 60 kg
+
+CHIEF COMPLAINT: chest pain with jaw and shoulder discomfort with chest discomfort
+
+VITAL SIGNS:
+• HR: 120 bpm
+• BP: 175/89 mmHg
+• SpO2: 88%
+• Temp: 37.2°C
+
+ASSESSMENT: Cardiac monitoring shows rhythm changes
+
+ETA: 12 minutes",71yo female,HR:120 BP:175/89 SpO2:88%,2025-12-11 19:05:58.201128,Low
+General_0401,General,"🚑 AMBULANCE REPORT
+Patient: 75yo female
+Weight: 115 kg
+
+CHIEF COMPLAINT: flu-like symptoms with chills with gradual onset abdominal pain with nausea and sweating
+
+VITAL SIGNS:
+• HR: 60 bpm
+• BP: 138/68 mmHg
+• SpO2: 92%
+• Temp: 36.6°C
+
+ASSESSMENT: Symptoms have been ongoing for several hours
+
+ETA: 16 minutes",75yo female,HR:60 BP:138/68 SpO2:92%,2025-12-14 04:05:58.179841,Medium
+Trauma_0254,Trauma,"🚑 AMBULANCE REPORT
+Patient: 51yo male
+Weight: 115 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 124 bpm
+• BP: 101/108 mmHg
+• SpO2: 94%
+• Temp: 36.8°C
+
+ASSESSMENT: Obvious mechanism of injury reported
+
+ETA: 13 minutes",51yo male,HR:124 BP:101/108 SpO2:94%,2025-12-11 22:05:58.207239,High
+Stroke_0298,Stroke,"🚑 AMBULANCE REPORT
+Patient: 36yo female
+Weight: 57 kg
+
+CHIEF COMPLAINT: shortness of breath
+
+VITAL SIGNS:
+• HR: 61 bpm
+• BP: 205/101 mmHg
+• SpO2: 91%
+• Temp: 39.2°C
+
+ASSESSMENT: Patient has difficulty with coordination
+
+ETA: 6 minutes",36yo female,HR:61 BP:205/101 SpO2:91%,2025-12-13 22:05:58.192785,Low

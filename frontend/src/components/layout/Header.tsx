@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { ChevronDown, Wifi, WifiOff } from "lucide-react";
 
 interface HeaderProps {
@@ -13,7 +13,7 @@ const Header: React.FC<HeaderProps> = ({
   isConnected,
 }) => {
   const [currentTime, setCurrentTime] = useState(new Date());
-  const [selectedLocation, setSelectedLocation] = useState("local");
+  const selectedLocation = "local";
 
   useEffect(() => {
     const timer = setInterval(() => {

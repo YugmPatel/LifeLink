@@ -256,7 +256,7 @@ export const useRealTimeDashboard = () => {
 export const useRealTimeChat = () => {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [unreadCount, setUnreadCount] = useState(0);
-  const [isTyping, setIsTyping] = useState(false);
+  const [isTyping] = useState(false);
 
   const handlers: SocketEventHandlers = {
     onChatMessage: (message) => {
